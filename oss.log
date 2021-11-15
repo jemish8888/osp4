@@ -1,0 +1,1795 @@
+OSS: Simulator file is /tmp/oss_simulator.1000
+OSS: Generating process with PID 20253 at time 0:0
+OSS: Process 20253 queued into RQ 1
+OSS: Pop PID 20253 from ready queue 0 at time 0:0,
+OSS: Receiving that process with PID 20253 ran for 500000 nanoseconds
+OSS: Process 20253 queued into RQ 1
+OSS: Receiving that process with PID 20253 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:578 at 1:578
+OSS: Jumped to next fork time 1:886
+OSS: idled for 0:308 at 1:886
+OSS: Generating process with PID 20254 at time 1:886
+OSS: Process 20254 queued into RQ 1
+OSS: Pop PID 20253 from ready queue 0 at time 1:886,
+OSS: Receiving that process with PID 20253 terminated after running for 84705 nanoseconds
+OSS: Dispatching of ready queue took 0:41 at 1:85632
+OSS: Jumped to next fork time 2:8679
+OSS: idled for 0:923047 at 2:8679
+OSS: Generating process with PID 20255 at time 2:8679
+OSS: Process 20255 queued into RQ 1
+OSS: Process 20253 exited with times : waiting=0:500886, blocked=0:84705, exec=0:584705
+OSS: Pop PID 20254 from ready queue 0 at time 2:8679,
+OSS: Receiving that process with PID 20254 ran for 500000 nanoseconds
+OSS: Process 20254 queued into RQ 1
+OSS: Receiving that process with PID 20254 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:602 at 3:9281
+OSS: Generating process with PID 20256 at time 3:9281
+OSS: Process 20256 queued into RQ 0
+OSS: Pop PID 20256 from ready queue 0 at time 3:9281,
+OSS: Receiving that process with PID 20256 ran for 500000 nanoseconds
+OSS: Process 20256 queued into RQ 0
+OSS: Receiving that process with PID 20256 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:514 at 4:9795
+OSS: Generating process with PID 20257 at time 4:9795
+OSS: Process 20257 queued into RQ 1
+OSS: Pop PID 20256 from ready queue 0 at time 4:9795,
+OSS: Receiving that process with PID 20256 terminated after running for 84705 nanoseconds
+OSS: Dispatching of ready queue took 0:29 at 4:94529
+OSS: Generating process with PID 20258 at time 4:94529
+OSS: Process 20258 queued into RQ 0
+OSS: Process 20256 exited with times : waiting=0:500514, blocked=0:84705, exec=0:584705
+OSS: Pop PID 20258 from ready queue 0 at time 4:94529,
+OSS: Receiving that process with PID 20258 ran for 500000 nanoseconds
+OSS: Process 20258 queued into RQ 0
+OSS: Receiving that process with PID 20258 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:854 at 5:95383
+OSS: Generating process with PID 20259 at time 5:95383
+OSS: Process 20259 queued into RQ 0
+OSS: Pop PID 20258 from ready queue 0 at time 5:95383,
+OSS: Advance with burst of 0:70424 at time 5:95383
+OSS: Putting process with PID 20258 into blocked queue until 10:96014
+OSS: Dispatching of ready queue took 0:39 at 5:165846
+OSS: Generating process with PID 20260 at time 5:165846
+OSS: Process 20260 queued into RQ 0
+OSS: Pop PID 20259 from ready queue 0 at time 5:165846,
+OSS: Receiving that process with PID 20259 ran for 500000 nanoseconds
+OSS: Process 20259 queued into RQ 0
+OSS: Receiving that process with PID 20259 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:466 at 6:166312
+OSS: Generating process with PID 20261 at time 6:166312
+OSS: Process 20261 queued into RQ 1
+OSS: Pop PID 20260 from ready queue 0 at time 6:166312,
+OSS: Receiving that process with PID 20260 ran for 500000 nanoseconds
+OSS: Process 20260 queued into RQ 0
+OSS: Receiving that process with PID 20260 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:230 at 7:166542
+OSS: Generating process with PID 20262 at time 7:166542
+OSS: Process 20262 queued into RQ 1
+OSS: Pop PID 20259 from ready queue 0 at time 7:166542,
+OSS: Receiving that process with PID 20259 terminated after running for 84705 nanoseconds
+OSS: Dispatching of ready queue took 0:36 at 7:251283
+OSS: Generating process with PID 20263 at time 7:251283
+OSS: Process 20263 queued into RQ 0
+OSS: Pop PID 20260 from ready queue 0 at time 7:251283,
+OSS: Receiving that process with PID 20260 terminated after running for 280984 nanoseconds
+OSS: Dispatching of ready queue took 0:92 at 7:532359
+OSS: Process 20259 exited with times : waiting=1:571159, blocked=0:84705, exec=0:584705
+OSS: Generating process with PID 20264 at time 7:532359
+OSS: Process 20264 queued into RQ 1
+OSS: Process 20260 exited with times : waiting=1:585437, blocked=0:280984, exec=0:780984
+OSS: Pop PID 20263 from ready queue 0 at time 7:532359,
+OSS: Receiving that process with PID 20263 terminated after running for 425228 nanoseconds
+OSS: Dispatching of ready queue took 0:1930 at 7:959517
+OSS: Generating process with PID 20265 at time 7:959517
+OSS: Process 20265 queued into RQ 0
+OSS: Process 20263 exited with times : waiting=0:281076, blocked=0:425228, exec=0:425228
+OSS: Pop PID 20265 from ready queue 0 at time 7:959517,
+OSS: Receiving that process with PID 20265 ran for 500000 nanoseconds
+OSS: Process 20265 queued into RQ 0
+OSS: Receiving that process with PID 20265 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:637 at 8:960154
+OSS: Generating process with PID 20266 at time 8:960154
+OSS: Process 20266 queued into RQ 1
+OSS: Pop PID 20265 from ready queue 0 at time 8:960154,
+OSS: Receiving that process with PID 20265 terminated after running for 280984 nanoseconds
+OSS: Dispatching of ready queue took 0:37 at 9:241175
+OSS: Generating process with PID 20267 at time 9:241175
+OSS: Process 20267 queued into RQ 1
+OSS: Process 20265 exited with times : waiting=0:500637, blocked=0:280984, exec=0:780984
+OSS: Pop PID 20255 from ready queue 0 at time 9:241175,
+OSS: Receiving that process with PID 20255 ran for 500000 nanoseconds
+OSS: Process 20255 queued into RQ 1
+OSS: Receiving that process with PID 20255 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:46 at 10:241221
+OSS: Process with PID 20258 event(10:96014) ready at time 10:241221
+OSS: Dispatching process with PID 20258 from blocked queue at time 10:241221,
+OSS: Receiving that process with PID 20258 ran for 500000 nanoseconds
+OSS: Process 20258 queued into RQ 0
+OSS: Receiving that process with PID 20258 terminated after running for 500000 nanoseconds
+OSS: Dispatching of blocked queue took 0:58 at time 11:241279
+OSS: Generating process with PID 20268 at time 11:241279
+OSS: Process 20268 queued into RQ 0
+OSS: Pop PID 20258 from ready queue 0 at time 11:241279,
+OSS: Receiving that process with PID 20258 ran for 500000 nanoseconds
+OSS: Process 20258 queued into RQ 0
+OSS: Receiving that process with PID 20258 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:149 at 12:241428
+OSS: Generating process with PID 20269 at time 12:241428
+OSS: Process 20269 queued into RQ 0
+OSS: Pop PID 20268 from ready queue 0 at time 12:241428,
+OSS: Receiving that process with PID 20268 ran for 500000 nanoseconds
+OSS: Process 20268 queued into RQ 0
+OSS: Receiving that process with PID 20268 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:1400 at 13:242828
+OSS: Generating process with PID 20270 at time 13:242828
+OSS: Process 20270 queued into RQ 1
+OSS: Pop PID 20258 from ready queue 0 at time 13:242828,
+OSS: Receiving that process with PID 20258 terminated after running for 387319 nanoseconds
+OSS: Dispatching of ready queue took 0:36 at 13:630183
+OSS: Generating process with PID 20271 at time 13:630183
+OSS: Process 20271 queued into RQ 1
+OSS: Process 20258 exited with times : waiting=2:502461, blocked=0:387319, exec=1:957743
+OSS: Pop PID 20269 from ready queue 0 at time 13:630183,
+OSS: Receiving that process with PID 20269 ran for 500000 nanoseconds
+OSS: Process 20269 queued into RQ 0
+OSS: Receiving that process with PID 20269 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:36 at 14:630219
+OSS: Generating process with PID 20272 at time 14:630219
+OSS: Process 20272 queued into RQ 1
+OSS: Pop PID 20268 from ready queue 0 at time 14:630219,
+OSS: Receiving that process with PID 20268 terminated after running for 280984 nanoseconds
+OSS: Dispatching of ready queue took 0:105 at 14:911308
+OSS: Generating process with PID 20273 at time 14:911308
+OSS: Process 20273 queued into RQ 1
+OSS: Pop PID 20269 from ready queue 0 at time 14:911308,
+OSS: Receiving that process with PID 20269 ran for 500000 nanoseconds
+OSS: Process 20269 queued into RQ 0
+OSS: Receiving that process with PID 20269 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:27 at 15:911335
+OSS: Generating process with PID 20274 at time 15:911335
+OSS: Process 20274 queued into RQ 0
+OSS: Pop PID 20269 from ready queue 0 at time 15:911335,
+OSS: Receiving that process with PID 20269 terminated after running for 401846 nanoseconds
+OSS: Dispatching of ready queue took 0:165 at 16:313346
+OSS: Process 20268 exited with times : waiting=2:888940, blocked=0:280984, exec=0:780984
+OSS: Generating process with PID 20275 at time 16:313346
+OSS: Process 20275 queued into RQ 0
+OSS: Pop PID 20274 from ready queue 0 at time 16:313346,
+OSS: Receiving that process with PID 20274 ran for 500000 nanoseconds
+OSS: Process 20274 queued into RQ 0
+OSS: Receiving that process with PID 20274 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:399 at 17:313745
+OSS: Process 20269 exited with times : waiting=2:669907, blocked=0:401846, exec=1:401846
+OSS: Generating process with PID 20276 at time 17:313745
+OSS: Process 20276 queued into RQ 1
+OSS: Pop PID 20275 from ready queue 0 at time 17:313745,
+OSS: Receiving that process with PID 20275 ran for 500000 nanoseconds
+OSS: Process 20275 queued into RQ 0
+OSS: Receiving that process with PID 20275 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:287 at 18:314032
+OSS: Generating process with PID 20277 at time 18:314032
+OSS: Process 20277 queued into RQ 0
+OSS: Pop PID 20274 from ready queue 0 at time 18:314032,
+OSS: Receiving that process with PID 20274 terminated after running for 53482 nanoseconds
+OSS: Dispatching of ready queue took 0:35 at 18:367549
+OSS: Generating process with PID 20278 at time 18:367549
+OSS: Process 20278 queued into RQ 1
+OSS: Pop PID 20275 from ready queue 0 at time 18:367549,
+OSS: Receiving that process with PID 20275 terminated after running for 280984 nanoseconds
+OSS: Dispatching of ready queue took 0:880 at 18:649413
+OSS: Process 20274 exited with times : waiting=1:902697, blocked=0:53482, exec=0:553482
+OSS: Generating process with PID 20279 at time 18:649413
+OSS: Process 20279 queued into RQ 1
+OSS: Pop PID 20277 from ready queue 0 at time 18:649413,
+OSS: Receiving that process with PID 20277 ran for 500000 nanoseconds
+OSS: Process 20277 queued into RQ 0
+OSS: Receiving that process with PID 20277 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:45 at 19:649458
+OSS: Generating process with PID 20280 at time 19:649458
+OSS: Process 20280 queued into RQ 1
+OSS: Pop PID 20277 from ready queue 0 at time 19:649458,
+OSS: Receiving that process with PID 20277 ran for 500000 nanoseconds
+OSS: Process 20277 queued into RQ 0
+OSS: Receiving that process with PID 20277 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:191 at 20:649649
+OSS: Process 20275 exited with times : waiting=1:554203, blocked=0:280984, exec=0:780984
+OSS: Generating process with PID 20281 at time 20:649649
+OSS: Process 20281 queued into RQ 0
+OSS: Pop PID 20277 from ready queue 0 at time 20:649649,
+OSS: Receiving that process with PID 20277 ran for 500000 nanoseconds
+OSS: Process 20277 queued into RQ 0
+OSS: Receiving that process with PID 20277 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:30 at 21:649679
+OSS: Pop PID 20281 from ready queue 0 at time 21:649679,
+OSS: Receiving that process with PID 20281 ran for 500000 nanoseconds
+OSS: Process 20281 queued into RQ 0
+OSS: Receiving that process with PID 20281 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:4087 at 22:653766
+OSS: Pop PID 20277 from ready queue 0 at time 22:653766,
+OSS: Receiving that process with PID 20277 ran for 500000 nanoseconds
+OSS: Process 20277 queued into RQ 0
+OSS: Receiving that process with PID 20277 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:385 at 23:654151
+OSS: Pop PID 20281 from ready queue 0 at time 23:654151,
+OSS: Receiving that process with PID 20281 terminated after running for 280984 nanoseconds
+OSS: Dispatching of ready queue took 0:325 at 23:935460
+OSS: Pop PID 20277 from ready queue 0 at time 23:935460,
+OSS: Receiving that process with PID 20277 terminated after running for 87706 nanoseconds
+OSS: Dispatching of ready queue took 0:31 at 24:23197
+OSS: Pop PID 20254 from ready queue 0 at time 24:23197,
+OSS: Receiving that process with PID 20254 ran for 500000 nanoseconds
+OSS: Process 20254 queued into RQ 1
+OSS: Receiving that process with PID 20254 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:37 at 25:23234
+OSS: Pop PID 20257 from ready queue 0 at time 25:23234,
+OSS: Receiving that process with PID 20257 ran for 500000 nanoseconds
+OSS: Process 20257 queued into RQ 1
+OSS: Receiving that process with PID 20257 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:34 at 26:23268
+OSS: Pop PID 20261 from ready queue 0 at time 26:23268,
+OSS: Receiving that process with PID 20261 terminated after running for 122409 nanoseconds
+OSS: Dispatching of ready queue took 0:104 at 26:145781
+OSS: Process 20277 exited with times : waiting=3:621428, blocked=0:87706, exec=2:87706
+OSS: Process 20281 exited with times : waiting=2:504502, blocked=0:280984, exec=0:780984
+OSS: Generating process with PID 20282 at time 26:145781
+OSS: Process 20282 queued into RQ 1
+OSS: Process 20261 exited with times : waiting=19:856956, blocked=0:122409, exec=0:122409
+OSS: Pop PID 20262 from ready queue 0 at time 26:145781,
+OSS: Receiving that process with PID 20262 terminated after running for 195652 nanoseconds
+OSS: Dispatching of ready queue took 0:47 at 26:341480
+OSS: Generating process with PID 20283 at time 26:341480
+OSS: Process 20283 queued into RQ 1
+OSS: Process 20262 exited with times : waiting=18:979239, blocked=0:195652, exec=0:195652
+OSS: Pop PID 20264 from ready queue 0 at time 26:341480,
+OSS: Receiving that process with PID 20264 ran for 500000 nanoseconds
+OSS: Process 20264 queued into RQ 1
+OSS: Receiving that process with PID 20264 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:41 at 27:341521
+OSS: Generating process with PID 20284 at time 27:341521
+OSS: Process 20284 queued into RQ 1
+OSS: Pop PID 20266 from ready queue 0 at time 27:341521,
+OSS: Receiving that process with PID 20266 terminated after running for 425228 nanoseconds
+OSS: Dispatching of ready queue took 0:168 at 27:766917
+OSS: Process 20266 exited with times : waiting=18:381367, blocked=0:425228, exec=0:425228
+OSS: Generating process with PID 20285 at time 27:766917
+OSS: Process 20285 queued into RQ 0
+OSS: Pop PID 20285 from ready queue 0 at time 27:766917,
+OSS: Receiving that process with PID 20285 terminated after running for 425228 nanoseconds
+OSS: Dispatching of ready queue took 0:697 at 28:192842
+OSS: Generating process with PID 20286 at time 28:192842
+OSS: Process 20286 queued into RQ 1
+OSS: Process 20285 exited with times : waiting=0:0, blocked=0:425228, exec=0:425228
+OSS: Pop PID 20267 from ready queue 0 at time 28:192842,
+OSS: Advance with burst of 0:91623 at time 28:192842
+OSS: Putting process with PID 20267 into blocked queue until 33:193692
+OSS: Dispatching of ready queue took 0:47 at 28:284512
+OSS: Generating process with PID 20287 at time 28:284512
+OSS: Process 20287 queued into RQ 1
+OSS: Pop PID 20255 from ready queue 0 at time 28:284512,
+OSS: Advance with burst of 0:196182 at time 28:284512
+OSS: Putting process with PID 20255 into blocked queue until 28:284847
+OSS: Dispatching of ready queue took 0:36 at 28:480730
+OSS: Process with PID 20255 event(28:284847) ready at time 28:480730
+OSS: Dispatching process with PID 20255 from blocked queue at time 28:480730,
+OSS: Advance with burst of 0:83107 at time 28:480730
+OSS: Putting process with PID 20255 into blocked queue until 29:480949
+OSS: Dispatching of blocked queue took 0:69 at time 28:563906
+OSS: Pop PID 20270 from ready queue 0 at time 28:563906,
+OSS: Advance with burst of 0:98864 at time 28:563906
+OSS: Putting process with PID 20270 into blocked queue until 33:564587
+OSS: Dispatching of ready queue took 0:36 at 28:662806
+OSS: Pop PID 20271 from ready queue 0 at time 28:662806,
+OSS: Receiving that process with PID 20271 ran for 500000 nanoseconds
+OSS: Process 20271 queued into RQ 1
+OSS: Receiving that process with PID 20271 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:63 at 29:662869
+OSS: Process with PID 20255 event(29:480949) ready at time 29:662869
+OSS: Dispatching process with PID 20255 from blocked queue at time 29:662869,
+OSS: Receiving that process with PID 20255 terminated after running for 14639 nanoseconds
+OSS: Dispatching of blocked queue took 0:176 at time 29:677684
+OSS: Process 20255 exited with times : waiting=25:775833, blocked=0:14639, exec=0:793928
+OSS: Generating process with PID 20288 at time 29:677684
+OSS: Process 20288 queued into RQ 1
+OSS: Pop PID 20272 from ready queue 0 at time 29:677684,
+OSS: Advance with burst of 0:88321 at time 29:677684
+OSS: Putting process with PID 20272 into blocked queue until 31:678121
+OSS: Dispatching of ready queue took 0:834 at 29:766839
+OSS: Pop PID 20273 from ready queue 0 at time 29:766839,
+OSS: Receiving that process with PID 20273 ran for 500000 nanoseconds
+OSS: Process 20273 queued into RQ 1
+OSS: Receiving that process with PID 20273 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:41 at 30:766880
+OSS: Pop PID 20276 from ready queue 0 at time 30:766880,
+OSS: Advance with burst of 0:155197 at time 30:766880
+OSS: Putting process with PID 20276 into blocked queue until 32:767041
+OSS: Dispatching of ready queue took 0:32 at 30:922109
+OSS: Pop PID 20278 from ready queue 0 at time 30:922109,
+OSS: Advance with burst of 0:211520 at time 30:922109
+OSS: Putting process with PID 20278 into blocked queue until 35:922360
+OSS: Dispatching of ready queue took 0:33 at 31:133662
+OSS: Pop PID 20279 from ready queue 0 at time 31:133662,
+OSS: Advance with burst of 0:62911 at time 31:133662
+OSS: Putting process with PID 20279 into blocked queue until 35:133687
+OSS: Dispatching of ready queue took 0:31 at 31:196604
+OSS: Pop PID 20280 from ready queue 0 at time 31:196604,
+OSS: Advance with burst of 0:350977 at time 31:196604
+OSS: Putting process with PID 20280 into blocked queue until 31:196925
+OSS: Dispatching of ready queue took 0:33 at 31:547614
+OSS: Process with PID 20280 event(31:196925) ready at time 31:547614
+OSS: Dispatching process with PID 20280 from blocked queue at time 31:547614,
+OSS: Advance with burst of 0:349755 at time 31:547614
+OSS: Putting process with PID 20280 into blocked queue until 31:547703
+OSS: Dispatching of blocked queue took 0:23 at time 31:897392
+OSS: Pop PID 20254 from ready queue 0 at time 31:897392,
+OSS: Advance with burst of 0:406916 at time 31:897392
+OSS: Putting process with PID 20254 into blocked queue until 34:897869
+OSS: Dispatching of ready queue took 0:29 at 32:304337
+OSS: Process with PID 20272 event(31:678121) ready at time 32:304337
+OSS: Dispatching process with PID 20272 from blocked queue at time 32:304337,
+OSS: Advance with burst of 0:37562 at time 32:304337
+OSS: Putting process with PID 20272 into blocked queue until 34:304755
+OSS: Dispatching of blocked queue took 0:24 at time 32:341923
+OSS: Pop PID 20257 from ready queue 0 at time 32:341923,
+OSS: Receiving that process with PID 20257 ran for 500000 nanoseconds
+OSS: Process 20257 queued into RQ 1
+OSS: Receiving that process with PID 20257 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:23 at 33:341946
+OSS: Process with PID 20267 event(33:193692) ready at time 33:341946
+OSS: Dispatching process with PID 20267 from blocked queue at time 33:341946,
+OSS: Receiving that process with PID 20267 terminated after running for 297424 nanoseconds
+OSS: Dispatching of blocked queue took 0:56 at time 33:639426
+OSS: Pop PID 20282 from ready queue 0 at time 33:639426,
+OSS: Advance with burst of 0:120903 at time 33:639426
+OSS: Putting process with PID 20282 into blocked queue until 33:640407
+OSS: Dispatching of ready queue took 0:36 at 33:760365
+OSS: Process with PID 20270 event(33:564587) ready at time 33:760365
+OSS: Dispatching process with PID 20270 from blocked queue at time 33:760365,
+OSS: Receiving that process with PID 20270 ran for 500000 nanoseconds
+OSS: Process 20270 queued into RQ 1
+OSS: Receiving that process with PID 20270 terminated after running for 500000 nanoseconds
+OSS: Dispatching of blocked queue took 0:32 at time 34:760397
+OSS: Pop PID 20283 from ready queue 0 at time 34:760397,
+OSS: Receiving that process with PID 20283 terminated after running for 122409 nanoseconds
+OSS: Dispatching of ready queue took 0:28 at 34:882834
+OSS: Process with PID 20276 event(32:767041) ready at time 34:882834
+OSS: Dispatching process with PID 20276 from blocked queue at time 34:882834,
+OSS: Advance with burst of 0:89171 at time 34:882834
+OSS: Putting process with PID 20276 into blocked queue until 34:883707
+OSS: Dispatching of blocked queue took 0:30 at time 34:972035
+OSS: Process 20267 exited with times : waiting=18:951667, blocked=0:297424, exec=0:389047
+OSS: Generating process with PID 20289 at time 34:972035
+OSS: Process 20289 queued into RQ 1
+OSS: Process 20283 exited with times : waiting=8:418917, blocked=0:122409, exec=0:122409
+OSS: Pop PID 20264 from ready queue 0 at time 34:972035,
+OSS: Receiving that process with PID 20264 terminated after running for 84705 nanoseconds
+OSS: Dispatching of ready queue took 0:34 at 35:56774
+OSS: Process with PID 20280 event(31:547703) ready at time 35:56774
+OSS: Dispatching process with PID 20280 from blocked queue at time 35:56774,
+OSS: Advance with burst of 0:100931 at time 35:56774
+OSS: Putting process with PID 20280 into blocked queue until 40:57152
+OSS: Dispatching of blocked queue took 0:29 at time 35:157734
+OSS: Generating process with PID 20290 at time 35:157734
+OSS: Process 20290 queued into RQ 0
+OSS: Process 20264 exited with times : waiting=26:939676, blocked=0:84705, exec=0:584705
+OSS: Pop PID 20290 from ready queue 0 at time 35:157734,
+OSS: Receiving that process with PID 20290 terminated after running for 122409 nanoseconds
+OSS: Dispatching of ready queue took 0:648 at 35:280791
+OSS: Process with PID 20279 event(35:133687) ready at time 35:280791
+OSS: Dispatching process with PID 20279 from blocked queue at time 35:280791,
+OSS: Advance with burst of 0:12191 at time 35:280791
+OSS: Putting process with PID 20279 into blocked queue until 35:280867
+OSS: Dispatching of blocked queue took 0:38 at time 35:293020
+OSS: Generating process with PID 20291 at time 35:293020
+OSS: Process 20291 queued into RQ 1
+OSS: Process 20290 exited with times : waiting=0:0, blocked=0:122409, exec=0:122409
+OSS: Pop PID 20284 from ready queue 0 at time 35:293020,
+OSS: Receiving that process with PID 20284 terminated after running for 195652 nanoseconds
+OSS: Dispatching of ready queue took 0:36 at 35:488708
+OSS: Process with PID 20254 event(34:897869) ready at time 35:488708
+OSS: Dispatching process with PID 20254 from blocked queue at time 35:488708,
+OSS: Receiving that process with PID 20254 terminated after running for 346024 nanoseconds
+OSS: Dispatching of blocked queue took 0:175 at time 35:834907
+OSS: Process 20254 exited with times : waiting=29:896506, blocked=0:346024, exec=1:752940
+OSS: Process 20284 exited with times : waiting=7:951499, blocked=0:195652, exec=0:195652
+OSS: Generating process with PID 20292 at time 35:834907
+OSS: Process 20292 queued into RQ 1
+OSS: Pop PID 20286 from ready queue 0 at time 35:834907,
+OSS: Receiving that process with PID 20286 ran for 500000 nanoseconds
+OSS: Process 20286 queued into RQ 1
+OSS: Receiving that process with PID 20286 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:35 at 36:834942
+OSS: Process with PID 20278 event(35:922360) ready at time 36:834942
+OSS: Dispatching process with PID 20278 from blocked queue at time 36:834942,
+OSS: Receiving that process with PID 20278 ran for 500000 nanoseconds
+OSS: Process 20278 queued into RQ 1
+OSS: Receiving that process with PID 20278 terminated after running for 500000 nanoseconds
+OSS: Dispatching of blocked queue took 0:91 at time 37:835033
+OSS: Generating process with PID 20293 at time 37:835033
+OSS: Process 20293 queued into RQ 0
+OSS: Pop PID 20293 from ready queue 0 at time 37:835033,
+OSS: Receiving that process with PID 20293 terminated after running for 122409 nanoseconds
+OSS: Dispatching of ready queue took 0:896 at 37:958338
+OSS: Process with PID 20272 event(34:304755) ready at time 37:958338
+OSS: Dispatching process with PID 20272 from blocked queue at time 37:958338,
+OSS: Advance with burst of 0:387319 at time 37:958338
+OSS: Putting process with PID 20272 into blocked queue until 39:959174
+OSS: Dispatching of blocked queue took 0:41 at time 38:345698
+OSS: Generating process with PID 20294 at time 38:345698
+OSS: Process 20294 queued into RQ 1
+OSS: Process 20293 exited with times : waiting=0:0, blocked=0:122409, exec=0:122409
+OSS: Pop PID 20287 from ready queue 0 at time 38:345698,
+OSS: Receiving that process with PID 20287 terminated after running for 425228 nanoseconds
+OSS: Dispatching of ready queue took 0:38 at 38:770964
+OSS: Process with PID 20282 event(33:640407) ready at time 38:770964
+OSS: Dispatching process with PID 20282 from blocked queue at time 38:770964,
+OSS: Receiving that process with PID 20282 ran for 500000 nanoseconds
+OSS: Process 20282 queued into RQ 1
+OSS: Receiving that process with PID 20282 terminated after running for 500000 nanoseconds
+OSS: Dispatching of blocked queue took 0:34 at time 39:770998
+OSS: Generating process with PID 20295 at time 39:770998
+OSS: Process 20295 queued into RQ 1
+OSS: Process 20287 exited with times : waiting=10:61186, blocked=0:425228, exec=0:425228
+OSS: Pop PID 20271 from ready queue 0 at time 39:770998,
+OSS: Advance with burst of 0:376578 at time 39:770998
+OSS: Putting process with PID 20271 into blocked queue until 44:771997
+OSS: Dispatching of ready queue took 0:32 at 40:147608
+OSS: Process with PID 20276 event(34:883707) ready at time 40:147608
+OSS: Dispatching process with PID 20276 from blocked queue at time 40:147608,
+OSS: Receiving that process with PID 20276 ran for 500000 nanoseconds
+OSS: Process 20276 queued into RQ 1
+OSS: Receiving that process with PID 20276 terminated after running for 500000 nanoseconds
+OSS: Dispatching of blocked queue took 0:36 at time 41:147644
+OSS: Generating process with PID 20296 at time 41:147644
+OSS: Process 20296 queued into RQ 0
+OSS: Pop PID 20296 from ready queue 0 at time 41:147644,
+OSS: Receiving that process with PID 20296 terminated after running for 425228 nanoseconds
+OSS: Dispatching of ready queue took 0:665 at 41:573537
+OSS: Process with PID 20280 event(40:57152) ready at time 41:573537
+OSS: Dispatching process with PID 20280 from blocked queue at time 41:573537,
+OSS: Advance with burst of 0:433523 at time 41:573537
+OSS: Putting process with PID 20280 into blocked queue until 45:573809
+OSS: Dispatching of blocked queue took 0:29 at time 42:7089
+OSS: Pop PID 20288 from ready queue 0 at time 42:7089,
+OSS: Receiving that process with PID 20288 ran for 500000 nanoseconds
+OSS: Process 20288 queued into RQ 1
+OSS: Receiving that process with PID 20288 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:29 at 43:7118
+OSS: Process with PID 20279 event(35:280867) ready at time 43:7118
+OSS: Dispatching process with PID 20279 from blocked queue at time 43:7118,
+OSS: Receiving that process with PID 20279 terminated after running for 220913 nanoseconds
+OSS: Dispatching of blocked queue took 0:21 at time 43:228052
+OSS: Pop PID 20273 from ready queue 0 at time 43:228052,
+OSS: Receiving that process with PID 20273 ran for 500000 nanoseconds
+OSS: Process 20273 queued into RQ 1
+OSS: Receiving that process with PID 20273 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:92 at 44:228144
+OSS: Process with PID 20272 event(39:959174) ready at time 44:228144
+OSS: Dispatching process with PID 20272 from blocked queue at time 44:228144,
+OSS: Advance with burst of 0:303504 at time 44:228144
+OSS: Putting process with PID 20272 into blocked queue until 45:229137
+OSS: Dispatching of blocked queue took 0:37 at time 44:531685
+OSS: Process 20279 exited with times : waiting=12:484249, blocked=0:220913, exec=0:296015
+OSS: Process 20296 exited with times : waiting=0:0, blocked=0:425228, exec=0:425228
+OSS: Generating process with PID 20297 at time 44:531685
+OSS: Process 20297 queued into RQ 1
+OSS: Pop PID 20257 from ready queue 0 at time 44:531685,
+OSS: Receiving that process with PID 20257 terminated after running for 221352 nanoseconds
+OSS: Dispatching of ready queue took 0:30 at 44:753067
+OSS: Generating process with PID 20298 at time 44:753067
+OSS: Process 20298 queued into RQ 1
+OSS: Pop PID 20270 from ready queue 0 at time 44:753067,
+OSS: Advance with burst of 0:376752 at time 44:753067
+OSS: Putting process with PID 20270 into blocked queue until 48:753601
+OSS: Dispatching of ready queue took 0:48 at 45:129867
+OSS: Process with PID 20271 event(44:771997) ready at time 45:129867
+OSS: Dispatching process with PID 20271 from blocked queue at time 45:129867,
+OSS: Advance with burst of 0:79860 at time 45:129867
+OSS: Putting process with PID 20271 into blocked queue until 49:130379
+OSS: Dispatching of blocked queue took 0:44 at time 45:209771
+OSS: Process 20257 exited with times : waiting=39:521890, blocked=0:221352, exec=1:221352
+OSS: Generating process with PID 20299 at time 45:209771
+OSS: Process 20299 queued into RQ 1
+OSS: Pop PID 20289 from ready queue 0 at time 45:209771,
+OSS: Advance with burst of 0:91623 at time 45:209771
+OSS: Putting process with PID 20289 into blocked queue until 50:210621
+OSS: Dispatching of ready queue took 0:153 at 45:301547
+OSS: Process with PID 20272 event(45:229137) ready at time 45:301547
+OSS: Dispatching process with PID 20272 from blocked queue at time 45:301547,
+OSS: Receiving that process with PID 20272 ran for 500000 nanoseconds
+OSS: Process 20272 queued into RQ 1
+OSS: Receiving that process with PID 20272 terminated after running for 500000 nanoseconds
+OSS: Dispatching of blocked queue took 0:32 at time 46:301579
+OSS: Pop PID 20291 from ready queue 0 at time 46:301579,
+OSS: Receiving that process with PID 20291 ran for 500000 nanoseconds
+OSS: Process 20291 queued into RQ 1
+OSS: Receiving that process with PID 20291 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:32 at 47:301611
+OSS: Process with PID 20280 event(45:573809) ready at time 47:301611
+OSS: Dispatching process with PID 20280 from blocked queue at time 47:301611,
+OSS: Receiving that process with PID 20280 ran for 500000 nanoseconds
+OSS: Process 20280 queued into RQ 1
+OSS: Receiving that process with PID 20280 terminated after running for 500000 nanoseconds
+OSS: Dispatching of blocked queue took 0:25 at time 48:301636
+OSS: Pop PID 20292 from ready queue 0 at time 48:301636,
+OSS: Receiving that process with PID 20292 ran for 500000 nanoseconds
+OSS: Process 20292 queued into RQ 1
+OSS: Receiving that process with PID 20292 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:33 at 49:301669
+OSS: Process with PID 20270 event(48:753601) ready at time 49:301669
+OSS: Dispatching process with PID 20270 from blocked queue at time 49:301669,
+OSS: Advance with burst of 0:320266 at time 49:301669
+OSS: Putting process with PID 20270 into blocked queue until 53:301979
+OSS: Dispatching of blocked queue took 0:39 at time 49:621974
+OSS: Pop PID 20286 from ready queue 0 at time 49:621974,
+OSS: Advance with burst of 0:372464 at time 49:621974
+OSS: Putting process with PID 20286 into blocked queue until 53:622471
+OSS: Dispatching of ready queue took 0:29 at 49:994467
+OSS: Process with PID 20271 event(49:130379) ready at time 49:994467
+OSS: Dispatching process with PID 20271 from blocked queue at time 49:994467,
+OSS: Receiving that process with PID 20271 ran for 500000 nanoseconds
+OSS: Process 20271 queued into RQ 1
+OSS: Receiving that process with PID 20271 terminated after running for 500000 nanoseconds
+OSS: Dispatching of blocked queue took 0:87 at time 50:994554
+OSS: Pop PID 20278 from ready queue 0 at time 50:994554,
+OSS: Advance with burst of 0:98281 at time 50:994554
+OSS: Putting process with PID 20278 into blocked queue until 50:994566
+OSS: Dispatching of ready queue took 0:33 at 51:92868
+OSS: Process with PID 20289 event(50:210621) ready at time 51:92868
+OSS: Dispatching process with PID 20289 from blocked queue at time 51:92868,
+OSS: Receiving that process with PID 20289 terminated after running for 297424 nanoseconds
+OSS: Dispatching of blocked queue took 0:439 at time 51:390731
+OSS: Process 20289 exited with times : waiting=10:237736, blocked=0:297424, exec=0:389047
+OSS: Generating process with PID 20301 at time 51:390731
+OSS: Process 20301 queued into RQ 1
+OSS: Pop PID 20294 from ready queue 0 at time 51:390731,
+OSS: Receiving that process with PID 20294 terminated after running for 195652 nanoseconds
+OSS: Dispatching of ready queue took 0:50 at 51:586433
+OSS: Process with PID 20278 event(50:994566) ready at time 51:586433
+OSS: Dispatching process with PID 20278 from blocked queue at time 51:586433,
+OSS: Advance with burst of 0:233316 at time 51:586433
+OSS: Putting process with PID 20278 into blocked queue until 54:587168
+OSS: Dispatching of blocked queue took 0:124 at time 51:819873
+OSS: Process 20294 exited with times : waiting=13:45033, blocked=0:195652, exec=0:195652
+OSS: Generating process with PID 20302 at time 51:819873
+OSS: Process 20302 queued into RQ 0
+OSS: Pop PID 20302 from ready queue 0 at time 51:819873,
+OSS: Receiving that process with PID 20302 terminated after running for 195652 nanoseconds
+OSS: Dispatching of ready queue took 0:844 at 52:16369
+OSS: Pop PID 20282 from ready queue 0 at time 52:16369,
+OSS: Receiving that process with PID 20282 ran for 500000 nanoseconds
+OSS: Process 20282 queued into RQ 1
+OSS: Receiving that process with PID 20282 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:565 at 53:16934
+OSS: Process 20302 exited with times : waiting=0:0, blocked=0:195652, exec=0:195652
+OSS: Generating process with PID 20303 at time 53:16934
+OSS: Process 20303 queued into RQ 0
+OSS: Pop PID 20303 from ready queue 0 at time 53:16934,
+OSS: Receiving that process with PID 20303 terminated after running for 195652 nanoseconds
+OSS: Dispatching of ready queue took 0:580 at 53:213166
+OSS: Pop PID 20295 from ready queue 0 at time 53:213166,
+OSS: Receiving that process with PID 20295 terminated after running for 122409 nanoseconds
+OSS: Dispatching of ready queue took 0:47 at 53:335622
+OSS: Process with PID 20270 event(53:301979) ready at time 53:335622
+OSS: Dispatching process with PID 20270 from blocked queue at time 53:335622,
+OSS: Receiving that process with PID 20270 ran for 500000 nanoseconds
+OSS: Process 20270 queued into RQ 1
+OSS: Receiving that process with PID 20270 terminated after running for 500000 nanoseconds
+OSS: Dispatching of blocked queue took 0:167 at time 54:335789
+OSS: Process 20295 exited with times : waiting=13:442168, blocked=0:122409, exec=0:122409
+OSS: Process 20303 exited with times : waiting=0:0, blocked=0:195652, exec=0:195652
+OSS: Generating process with PID 20304 at time 54:335789
+OSS: Process 20304 queued into RQ 0
+OSS: Pop PID 20304 from ready queue 0 at time 54:335789,
+OSS: Receiving that process with PID 20304 terminated after running for 122409 nanoseconds
+OSS: Dispatching of ready queue took 0:529 at 54:458727
+OSS: Process with PID 20286 event(53:622471) ready at time 54:458727
+OSS: Dispatching process with PID 20286 from blocked queue at time 54:458727,
+OSS: Advance with burst of 0:87706 at time 54:458727
+OSS: Putting process with PID 20286 into blocked queue until 58:459576
+OSS: Dispatching of blocked queue took 0:32 at time 54:546465
+OSS: Generating process with PID 20305 at time 54:546465
+OSS: Process 20305 queued into RQ 1
+OSS: Process 20304 exited with times : waiting=0:0, blocked=0:122409, exec=0:122409
+OSS: Pop PID 20276 from ready queue 0 at time 54:546465,
+OSS: Advance with burst of 0:440839 at time 54:546465
+OSS: Putting process with PID 20276 into blocked queue until 59:546993
+OSS: Dispatching of ready queue took 0:27 at 54:987331
+OSS: Process with PID 20278 event(54:587168) ready at time 54:987331
+OSS: Dispatching process with PID 20278 from blocked queue at time 54:987331,
+OSS: Advance with burst of 0:178369 at time 54:987331
+OSS: Putting process with PID 20278 into blocked queue until 56:987351
+OSS: Dispatching of blocked queue took 0:22 at time 55:165722
+OSS: Generating process with PID 20306 at time 55:165722
+OSS: Process 20306 queued into RQ 0
+OSS: Pop PID 20306 from ready queue 0 at time 55:165722,
+OSS: Receiving that process with PID 20306 terminated after running for 122409 nanoseconds
+OSS: Dispatching of ready queue took 0:541 at 55:288672
+OSS: Pop PID 20288 from ready queue 0 at time 55:288672,
+OSS: Advance with burst of 0:196182 at time 55:288672
+OSS: Putting process with PID 20288 into blocked queue until 55:289007
+OSS: Dispatching of ready queue took 0:40 at 55:484894
+OSS: Process with PID 20288 event(55:289007) ready at time 55:484894
+OSS: Dispatching process with PID 20288 from blocked queue at time 55:484894,
+OSS: Advance with burst of 0:83107 at time 55:484894
+OSS: Putting process with PID 20288 into blocked queue until 56:485113
+OSS: Dispatching of blocked queue took 0:24 at time 55:568025
+OSS: Pop PID 20273 from ready queue 0 at time 55:568025,
+OSS: Advance with burst of 0:351614 at time 55:568025
+OSS: Putting process with PID 20273 into blocked queue until 58:568669
+OSS: Dispatching of ready queue took 0:27 at 55:919666
+OSS: Process 20306 exited with times : waiting=0:0, blocked=0:122409, exec=0:122409
+OSS: Generating process with PID 20307 at time 55:919666
+OSS: Process 20307 queued into RQ 1
+OSS: Pop PID 20297 from ready queue 0 at time 55:919666,
+OSS: Receiving that process with PID 20297 terminated after running for 425228 nanoseconds
+OSS: Dispatching of ready queue took 0:37 at 56:344931
+OSS: Pop PID 20298 from ready queue 0 at time 56:344931,
+OSS: Advance with burst of 0:62911 at time 56:344931
+OSS: Putting process with PID 20298 into blocked queue until 60:344956
+OSS: Dispatching of ready queue took 0:37 at 56:407879
+OSS: Pop PID 20299 from ready queue 0 at time 56:407879,
+OSS: Receiving that process with PID 20299 ran for 500000 nanoseconds
+OSS: Process 20299 queued into RQ 1
+OSS: Receiving that process with PID 20299 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:32 at 57:407911
+OSS: Process with PID 20278 event(56:987351) ready at time 57:407911
+OSS: Dispatching process with PID 20278 from blocked queue at time 57:407911,
+OSS: Receiving that process with PID 20278 terminated after running for 94953 nanoseconds
+OSS: Dispatching of blocked queue took 0:29 at time 57:502893
+OSS: Pop PID 20272 from ready queue 0 at time 57:502893,
+OSS: Receiving that process with PID 20272 terminated after running for 215920 nanoseconds
+OSS: Dispatching of ready queue took 0:49 at 57:718862
+OSS: Process with PID 20288 event(56:485113) ready at time 57:718862
+OSS: Dispatching process with PID 20288 from blocked queue at time 57:718862,
+OSS: Receiving that process with PID 20288 terminated after running for 14639 nanoseconds
+OSS: Dispatching of blocked queue took 0:184 at time 57:733685
+OSS: Process 20272 exited with times : waiting=26:748811, blocked=0:215920, exec=1:532626
+OSS: Process 20278 exited with times : waiting=26:214172, blocked=0:94953, exec=1:316439
+OSS: Process 20297 exited with times : waiting=11:387981, blocked=0:425228, exec=0:425228
+OSS: Generating process with PID 20308 at time 57:733685
+OSS: Process 20308 queued into RQ 0
+OSS: Process 20288 exited with times : waiting=25:110988, blocked=0:14639, exec=0:793928
+OSS: Pop PID 20308 from ready queue 0 at time 57:733685,
+OSS: Receiving that process with PID 20308 ran for 500000 nanoseconds
+OSS: Process 20308 queued into RQ 0
+OSS: Receiving that process with PID 20308 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:786 at 58:734471
+OSS: Process with PID 20286 event(58:459576) ready at time 58:734471
+OSS: Dispatching process with PID 20286 from blocked queue at time 58:734471,
+OSS: Receiving that process with PID 20286 terminated after running for 152488 nanoseconds
+OSS: Dispatching of blocked queue took 0:31 at time 58:886990
+OSS: Generating process with PID 20309 at time 58:886990
+OSS: Process 20309 queued into RQ 1
+OSS: Process 20286 exited with times : waiting=20:929132, blocked=0:152488, exec=1:112658
+OSS: Pop PID 20308 from ready queue 0 at time 58:886990,
+OSS: Advance with burst of 0:70424 at time 58:886990
+OSS: Putting process with PID 20308 into blocked queue until 63:887621
+OSS: Dispatching of ready queue took 0:26 at 58:957440
+OSS: Process with PID 20273 event(58:568669) ready at time 58:957440
+OSS: Dispatching process with PID 20273 from blocked queue at time 58:957440,
+OSS: Receiving that process with PID 20273 terminated after running for 67730 nanoseconds
+OSS: Dispatching of blocked queue took 0:21 at time 59:25191
+OSS: Generating process with PID 20310 at time 59:25191
+OSS: Process 20310 queued into RQ 1
+OSS: Pop PID 20291 from ready queue 0 at time 59:25191,
+OSS: Receiving that process with PID 20291 terminated after running for 84705 nanoseconds
+OSS: Dispatching of ready queue took 0:35 at 59:109931
+OSS: Process 20273 exited with times : waiting=39:656717, blocked=0:67730, exec=1:419344
+OSS: Generating process with PID 20311 at time 59:109931
+OSS: Process 20311 queued into RQ 0
+OSS: Process 20291 exited with times : waiting=23:232171, blocked=0:84705, exec=0:584705
+OSS: Pop PID 20311 from ready queue 0 at time 59:109931,
+OSS: Receiving that process with PID 20311 ran for 500000 nanoseconds
+OSS: Process 20311 queued into RQ 0
+OSS: Receiving that process with PID 20311 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:1387 at 60:111318
+OSS: Process with PID 20276 event(59:546993) ready at time 60:111318
+OSS: Dispatching process with PID 20276 from blocked queue at time 60:111318,
+OSS: Advance with burst of 0:216921 at time 60:111318
+OSS: Putting process with PID 20276 into blocked queue until 65:111388
+OSS: Dispatching of blocked queue took 0:36 at time 60:328275
+OSS: Generating process with PID 20312 at time 60:328275
+OSS: Process 20312 queued into RQ 1
+OSS: Pop PID 20311 from ready queue 0 at time 60:328275,
+OSS: Receiving that process with PID 20311 ran for 500000 nanoseconds
+OSS: Process 20311 queued into RQ 0
+OSS: Receiving that process with PID 20311 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:49 at 61:328324
+OSS: Process with PID 20298 event(60:344956) ready at time 61:328324
+OSS: Dispatching process with PID 20298 from blocked queue at time 61:328324,
+OSS: Advance with burst of 0:12191 at time 61:328324
+OSS: Putting process with PID 20298 into blocked queue until 61:328400
+OSS: Dispatching of blocked queue took 0:30 at time 61:340545
+OSS: Generating process with PID 20313 at time 61:340545
+OSS: Process 20313 queued into RQ 0
+OSS: Pop PID 20311 from ready queue 0 at time 61:340545,
+OSS: Receiving that process with PID 20311 ran for 500000 nanoseconds
+OSS: Process 20311 queued into RQ 0
+OSS: Receiving that process with PID 20311 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:36 at 62:340581
+OSS: Process with PID 20298 event(61:328400) ready at time 62:340581
+OSS: Dispatching process with PID 20298 from blocked queue at time 62:340581,
+OSS: Receiving that process with PID 20298 terminated after running for 220913 nanoseconds
+OSS: Dispatching of blocked queue took 0:27 at time 62:561521
+OSS: Generating process with PID 20314 at time 62:561521
+OSS: Process 20314 queued into RQ 1
+OSS: Pop PID 20313 from ready queue 0 at time 62:561521,
+OSS: Receiving that process with PID 20313 ran for 500000 nanoseconds
+OSS: Process 20313 queued into RQ 0
+OSS: Receiving that process with PID 20313 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:632 at 63:562153
+OSS: Process 20298 exited with times : waiting=11:591864, blocked=0:220913, exec=0:296015
+OSS: Generating process with PID 20315 at time 63:562153
+OSS: Process 20315 queued into RQ 0
+OSS: Pop PID 20311 from ready queue 0 at time 63:562153,
+OSS: Receiving that process with PID 20311 terminated after running for 155975 nanoseconds
+OSS: Dispatching of ready queue took 0:35 at 63:718163
+OSS: Pop PID 20313 from ready queue 0 at time 63:718163,
+OSS: Receiving that process with PID 20313 ran for 500000 nanoseconds
+OSS: Process 20313 queued into RQ 0
+OSS: Receiving that process with PID 20313 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:151 at 64:718314
+OSS: Process with PID 20308 event(63:887621) ready at time 64:718314
+OSS: Dispatching process with PID 20308 from blocked queue at time 64:718314,
+OSS: Receiving that process with PID 20308 ran for 500000 nanoseconds
+OSS: Process 20308 queued into RQ 0
+OSS: Receiving that process with PID 20308 terminated after running for 500000 nanoseconds
+OSS: Dispatching of blocked queue took 0:31 at time 65:718345
+OSS: Process 20311 exited with times : waiting=2:952222, blocked=0:155975, exec=1:655975
+OSS: Generating process with PID 20316 at time 65:718345
+OSS: Process 20316 queued into RQ 1
+OSS: Pop PID 20315 from ready queue 0 at time 65:718345,
+OSS: Receiving that process with PID 20315 ran for 500000 nanoseconds
+OSS: Process 20315 queued into RQ 0
+OSS: Receiving that process with PID 20315 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:321 at 66:718666
+OSS: Process with PID 20276 event(65:111388) ready at time 66:718666
+OSS: Dispatching process with PID 20276 from blocked queue at time 66:718666,
+OSS: Advance with burst of 0:144850 at time 66:718666
+OSS: Putting process with PID 20276 into blocked queue until 66:719205
+OSS: Dispatching of blocked queue took 0:31 at time 66:863547
+OSS: Pop PID 20313 from ready queue 0 at time 66:863547,
+OSS: Receiving that process with PID 20313 ran for 500000 nanoseconds
+OSS: Process 20313 queued into RQ 0
+OSS: Receiving that process with PID 20313 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:32 at 67:863579
+OSS: Process with PID 20276 event(66:719205) ready at time 67:863579
+OSS: Dispatching process with PID 20276 from blocked queue at time 67:863579,
+OSS: Advance with burst of 0:104875 at time 67:863579
+OSS: Putting process with PID 20276 into blocked queue until 67:864282
+OSS: Dispatching of blocked queue took 0:35 at time 67:968489
+OSS: Pop PID 20308 from ready queue 0 at time 67:968489,
+OSS: Receiving that process with PID 20308 ran for 500000 nanoseconds
+OSS: Process 20308 queued into RQ 0
+OSS: Receiving that process with PID 20308 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:28 at 68:968517
+OSS: Process with PID 20276 event(67:864282) ready at time 68:968517
+OSS: Dispatching process with PID 20276 from blocked queue at time 68:968517,
+OSS: Receiving that process with PID 20276 ran for 500000 nanoseconds
+OSS: Process 20276 queued into RQ 1
+OSS: Receiving that process with PID 20276 terminated after running for 500000 nanoseconds
+OSS: Dispatching of blocked queue took 0:25 at time 69:968542
+OSS: Pop PID 20315 from ready queue 0 at time 69:968542,
+OSS: Receiving that process with PID 20315 terminated after running for 53482 nanoseconds
+OSS: Dispatching of ready queue took 0:28 at 70:22052
+OSS: Pop PID 20313 from ready queue 0 at time 70:22052,
+OSS: Receiving that process with PID 20313 ran for 500000 nanoseconds
+OSS: Process 20313 queued into RQ 0
+OSS: Receiving that process with PID 20313 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:29 at 71:22081
+OSS: Pop PID 20308 from ready queue 0 at time 71:22081,
+OSS: Receiving that process with PID 20308 terminated after running for 387319 nanoseconds
+OSS: Dispatching of ready queue took 0:166 at 71:409566
+OSS: Process 20308 exited with times : waiting=5:957072, blocked=0:387319, exec=1:957743
+OSS: Process 20315 exited with times : waiting=5:906389, blocked=0:53482, exec=0:553482
+OSS: Generating process with PID 20317 at time 71:409566
+OSS: Process 20317 queued into RQ 1
+OSS: Pop PID 20313 from ready queue 0 at time 71:409566,
+OSS: Receiving that process with PID 20313 terminated after running for 87706 nanoseconds
+OSS: Dispatching of ready queue took 0:34 at 71:497306
+OSS: Generating process with PID 20318 at time 71:497306
+OSS: Process 20318 queued into RQ 1
+OSS: Process 20313 exited with times : waiting=8:69021, blocked=0:87706, exec=2:87706
+OSS: Pop PID 20280 from ready queue 0 at time 71:497306,
+OSS: Receiving that process with PID 20280 ran for 500000 nanoseconds
+OSS: Process 20280 queued into RQ 1
+OSS: Receiving that process with PID 20280 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:37 at 72:497343
+OSS: Generating process with PID 20319 at time 72:497343
+OSS: Process 20319 queued into RQ 1
+OSS: Pop PID 20292 from ready queue 0 at time 72:497343,
+OSS: Receiving that process with PID 20292 ran for 500000 nanoseconds
+OSS: Process 20292 queued into RQ 1
+OSS: Receiving that process with PID 20292 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:53 at 73:497396
+OSS: Pop PID 20271 from ready queue 0 at time 73:497396,
+OSS: Advance with burst of 0:457838 at time 73:497396
+OSS: Putting process with PID 20271 into blocked queue until 76:498023
+OSS: Dispatching of ready queue took 0:34 at 73:955268
+OSS: Pop PID 20301 from ready queue 0 at time 73:955268,
+OSS: Advance with burst of 0:91623 at time 73:955268
+OSS: Putting process with PID 20301 into blocked queue until 78:956118
+OSS: Dispatching of ready queue took 0:34 at 74:46925
+OSS: Pop PID 20282 from ready queue 0 at time 74:46925,
+OSS: Advance with burst of 0:323252 at time 74:46925
+OSS: Putting process with PID 20282 into blocked queue until 74:46953
+OSS: Dispatching of ready queue took 0:29 at 74:370206
+OSS: Process with PID 20282 event(74:46953) ready at time 74:370206
+OSS: Dispatching process with PID 20282 from blocked queue at time 74:370206,
+OSS: Advance with burst of 0:51932 at time 74:370206
+OSS: Putting process with PID 20282 into blocked queue until 76:370529
+OSS: Dispatching of blocked queue took 0:35 at time 74:422173
+OSS: Pop PID 20270 from ready queue 0 at time 74:422173,
+OSS: Receiving that process with PID 20270 ran for 500000 nanoseconds
+OSS: Process 20270 queued into RQ 1
+OSS: Receiving that process with PID 20270 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:1047 at 75:423220
+OSS: Pop PID 20305 from ready queue 0 at time 75:423220,
+OSS: Receiving that process with PID 20305 terminated after running for 195652 nanoseconds
+OSS: Dispatching of ready queue took 0:36 at 75:618908
+OSS: Pop PID 20307 from ready queue 0 at time 75:618908,
+OSS: Receiving that process with PID 20307 terminated after running for 122409 nanoseconds
+OSS: Dispatching of ready queue took 0:38 at 75:741355
+OSS: Pop PID 20299 from ready queue 0 at time 75:741355,
+OSS: Receiving that process with PID 20299 ran for 500000 nanoseconds
+OSS: Process 20299 queued into RQ 1
+OSS: Receiving that process with PID 20299 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:78 at 76:741433
+OSS: Process with PID 20271 event(76:498023) ready at time 76:741433
+OSS: Dispatching process with PID 20271 from blocked queue at time 76:741433,
+OSS: Receiving that process with PID 20271 ran for 500000 nanoseconds
+OSS: Process 20271 queued into RQ 1
+OSS: Receiving that process with PID 20271 terminated after running for 500000 nanoseconds
+OSS: Dispatching of blocked queue took 0:23 at time 77:741456
+OSS: Process 20305 exited with times : waiting=20:876755, blocked=0:195652, exec=0:195652
+OSS: Process 20307 exited with times : waiting=19:699242, blocked=0:122409, exec=0:122409
+OSS: Generating process with PID 20320 at time 77:741456
+OSS: Process 20320 queued into RQ 1
+OSS: Pop PID 20309 from ready queue 0 at time 77:741456,
+OSS: Receiving that process with PID 20309 ran for 500000 nanoseconds
+OSS: Process 20309 queued into RQ 1
+OSS: Receiving that process with PID 20309 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:39 at 78:741495
+OSS: Process with PID 20282 event(76:370529) ready at time 78:741495
+OSS: Dispatching process with PID 20282 from blocked queue at time 78:741495,
+OSS: Receiving that process with PID 20282 ran for 500000 nanoseconds
+OSS: Process 20282 queued into RQ 1
+OSS: Receiving that process with PID 20282 terminated after running for 500000 nanoseconds
+OSS: Dispatching of blocked queue took 0:30 at time 79:741525
+OSS: Generating process with PID 20321 at time 79:741525
+OSS: Process 20321 queued into RQ 1
+OSS: Pop PID 20310 from ready queue 0 at time 79:741525,
+OSS: Receiving that process with PID 20310 terminated after running for 425228 nanoseconds
+OSS: Dispatching of ready queue took 0:48 at 80:166801
+OSS: Process with PID 20301 event(78:956118) ready at time 80:166801
+OSS: Dispatching process with PID 20301 from blocked queue at time 80:166801,
+OSS: Receiving that process with PID 20301 terminated after running for 297424 nanoseconds
+OSS: Dispatching of blocked queue took 0:148 at time 80:464373
+OSS: Process 20301 exited with times : waiting=22:564537, blocked=0:297424, exec=0:389047
+OSS: Process 20310 exited with times : waiting=20:716334, blocked=0:425228, exec=0:425228
+OSS: Generating process with PID 20322 at time 80:464373
+OSS: Process 20322 queued into RQ 1
+OSS: Pop PID 20312 from ready queue 0 at time 80:464373,
+OSS: Receiving that process with PID 20312 ran for 500000 nanoseconds
+OSS: Process 20312 queued into RQ 1
+OSS: Receiving that process with PID 20312 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:41 at 81:464414
+OSS: Generating process with PID 20323 at time 81:464414
+OSS: Process 20323 queued into RQ 1
+OSS: Pop PID 20314 from ready queue 0 at time 81:464414,
+OSS: Advance with burst of 0:211520 at time 81:464414
+OSS: Putting process with PID 20314 into blocked queue until 86:464665
+OSS: Dispatching of ready queue took 0:40 at 81:675974
+OSS: Pop PID 20316 from ready queue 0 at time 81:675974,
+OSS: Receiving that process with PID 20316 ran for 500000 nanoseconds
+OSS: Process 20316 queued into RQ 1
+OSS: Receiving that process with PID 20316 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:35 at 82:676009
+OSS: Pop PID 20276 from ready queue 0 at time 82:676009,
+OSS: Advance with burst of 0:152169 at time 82:676009
+OSS: Putting process with PID 20276 into blocked queue until 83:676978
+OSS: Dispatching of ready queue took 0:26 at 82:828204
+OSS: Pop PID 20317 from ready queue 0 at time 82:828204,
+OSS: Advance with burst of 0:88321 at time 82:828204
+OSS: Putting process with PID 20317 into blocked queue until 84:828641
+OSS: Dispatching of ready queue took 0:27 at 82:916552
+OSS: Pop PID 20318 from ready queue 0 at time 82:916552,
+OSS: Advance with burst of 0:62911 at time 82:916552
+OSS: Putting process with PID 20318 into blocked queue until 86:916577
+OSS: Dispatching of ready queue took 0:29 at 82:979492
+OSS: Pop PID 20280 from ready queue 0 at time 82:979492,
+OSS: Receiving that process with PID 20280 terminated after running for 60952 nanoseconds
+OSS: Dispatching of ready queue took 0:164 at 83:40608
+OSS: Process 20280 exited with times : waiting=46:225027, blocked=0:60952, exec=2:296138
+OSS: Generating process with PID 20324 at time 83:40608
+OSS: Process 20324 queued into RQ 1
+OSS: Pop PID 20319 from ready queue 0 at time 83:40608,
+OSS: Receiving that process with PID 20319 ran for 500000 nanoseconds
+OSS: Process 20319 queued into RQ 1
+OSS: Receiving that process with PID 20319 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:41 at 84:40649
+OSS: Process with PID 20276 event(83:676978) ready at time 84:40649
+OSS: Dispatching process with PID 20276 from blocked queue at time 84:40649,
+OSS: Advance with burst of 0:7927 at time 84:40649
+OSS: Putting process with PID 20276 into blocked queue until 88:40782
+OSS: Dispatching of blocked queue took 0:93 at time 84:48669
+OSS: Pop PID 20292 from ready queue 0 at time 84:48669,
+OSS: Advance with burst of 0:406916 at time 84:48669
+OSS: Putting process with PID 20292 into blocked queue until 87:49146
+OSS: Dispatching of ready queue took 0:31 at 84:455616
+OSS: Pop PID 20270 from ready queue 0 at time 84:455616,
+OSS: Receiving that process with PID 20270 ran for 500000 nanoseconds
+OSS: Process 20270 queued into RQ 1
+OSS: Receiving that process with PID 20270 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:38 at 85:455654
+OSS: Process with PID 20317 event(84:828641) ready at time 85:455654
+OSS: Dispatching process with PID 20317 from blocked queue at time 85:455654,
+OSS: Advance with burst of 0:37562 at time 85:455654
+OSS: Putting process with PID 20317 into blocked queue until 87:456072
+OSS: Dispatching of blocked queue took 0:26 at time 85:493242
+OSS: Pop PID 20299 from ready queue 0 at time 85:493242,
+OSS: Receiving that process with PID 20299 terminated after running for 221352 nanoseconds
+OSS: Dispatching of ready queue took 0:23 at 85:714617
+OSS: Pop PID 20271 from ready queue 0 at time 85:714617,
+OSS: Receiving that process with PID 20271 ran for 500000 nanoseconds
+OSS: Process 20271 queued into RQ 1
+OSS: Receiving that process with PID 20271 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:113 at 86:714730
+OSS: Process with PID 20314 event(86:464665) ready at time 86:714730
+OSS: Dispatching process with PID 20314 from blocked queue at time 86:714730,
+OSS: Receiving that process with PID 20314 ran for 500000 nanoseconds
+OSS: Process 20314 queued into RQ 1
+OSS: Receiving that process with PID 20314 terminated after running for 500000 nanoseconds
+OSS: Dispatching of blocked queue took 0:51 at time 87:714781
+OSS: Process 20299 exited with times : waiting=39:283471, blocked=0:221352, exec=1:221352
+OSS: Generating process with PID 20325 at time 87:714781
+OSS: Process 20325 queued into RQ 0
+OSS: Pop PID 20325 from ready queue 0 at time 87:714781,
+OSS: Receiving that process with PID 20325 ran for 500000 nanoseconds
+OSS: Process 20325 queued into RQ 0
+OSS: Receiving that process with PID 20325 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:819 at 88:715600
+OSS: Process with PID 20318 event(86:916577) ready at time 88:715600
+OSS: Dispatching process with PID 20318 from blocked queue at time 88:715600,
+OSS: Advance with burst of 0:12191 at time 88:715600
+OSS: Putting process with PID 20318 into blocked queue until 88:715676
+OSS: Dispatching of blocked queue took 0:257 at time 88:728048
+OSS: Pop PID 20325 from ready queue 0 at time 88:728048,
+OSS: Receiving that process with PID 20325 ran for 500000 nanoseconds
+OSS: Process 20325 queued into RQ 0
+OSS: Receiving that process with PID 20325 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:23 at 89:728071
+OSS: Process with PID 20276 event(88:40782) ready at time 89:728071
+OSS: Dispatching process with PID 20276 from blocked queue at time 89:728071,
+OSS: Receiving that process with PID 20276 ran for 500000 nanoseconds
+OSS: Process 20276 queued into RQ 1
+OSS: Receiving that process with PID 20276 terminated after running for 500000 nanoseconds
+OSS: Dispatching of blocked queue took 0:24 at time 90:728095
+OSS: Pop PID 20325 from ready queue 0 at time 90:728095,
+OSS: Receiving that process with PID 20325 terminated after running for 221352 nanoseconds
+OSS: Dispatching of ready queue took 0:18 at 90:949465
+OSS: Process with PID 20292 event(87:49146) ready at time 90:949465
+OSS: Dispatching process with PID 20292 from blocked queue at time 90:949465,
+OSS: Receiving that process with PID 20292 terminated after running for 346024 nanoseconds
+OSS: Dispatching of blocked queue took 0:36 at time 91:295525
+OSS: Pop PID 20320 from ready queue 0 at time 91:295525,
+OSS: Receiving that process with PID 20320 terminated after running for 122409 nanoseconds
+OSS: Dispatching of ready queue took 0:93 at 91:418027
+OSS: Process with PID 20317 event(87:456072) ready at time 91:418027
+OSS: Dispatching process with PID 20317 from blocked queue at time 91:418027,
+OSS: Advance with burst of 0:387319 at time 91:418027
+OSS: Putting process with PID 20317 into blocked queue until 93:418863
+OSS: Dispatching of blocked queue took 0:31 at time 91:805377
+OSS: Process 20292 exited with times : waiting=47:213762, blocked=0:346024, exec=1:752940
+OSS: Process 20325 exited with times : waiting=2:13314, blocked=0:221352, exec=1:221352
+OSS: Generating process with PID 20326 at time 91:805377
+OSS: Process 20326 queued into RQ 1
+OSS: Process 20320 exited with times : waiting=13:554069, blocked=0:122409, exec=0:122409
+OSS: Pop PID 20309 from ready queue 0 at time 91:805377,
+OSS: Advance with burst of 0:196182 at time 91:805377
+OSS: Putting process with PID 20309 into blocked queue until 91:805712
+OSS: Dispatching of ready queue took 0:39 at 92:1598
+OSS: Process with PID 20318 event(88:715676) ready at time 92:1598
+OSS: Dispatching process with PID 20318 from blocked queue at time 92:1598,
+OSS: Receiving that process with PID 20318 terminated after running for 220913 nanoseconds
+OSS: Dispatching of blocked queue took 0:27 at time 92:222538
+OSS: Generating process with PID 20327 at time 92:222538
+OSS: Process 20327 queued into RQ 1
+OSS: Process 20318 exited with times : waiting=11:419246, blocked=0:220913, exec=0:296015
+OSS: Pop PID 20282 from ready queue 0 at time 92:222538,
+OSS: Advance with burst of 0:253924 at time 92:222538
+OSS: Putting process with PID 20282 into blocked queue until 93:222796
+OSS: Dispatching of ready queue took 0:35 at 92:476497
+OSS: Process with PID 20309 event(91:805712) ready at time 92:476497
+OSS: Dispatching process with PID 20309 from blocked queue at time 92:476497,
+OSS: Advance with burst of 0:83107 at time 92:476497
+OSS: Putting process with PID 20309 into blocked queue until 93:476716
+OSS: Dispatching of blocked queue took 0:32 at time 92:559636
+OSS: Generating process with PID 20328 at time 92:559636
+OSS: Process 20328 queued into RQ 0
+OSS: Pop PID 20328 from ready queue 0 at time 92:559636,
+OSS: Receiving that process with PID 20328 terminated after running for 122409 nanoseconds
+OSS: Dispatching of ready queue took 0:896 at 92:682941
+OSS: Generating process with PID 20329 at time 92:682941
+OSS: Process 20329 queued into RQ 1
+OSS: Pop PID 20321 from ready queue 0 at time 92:682941,
+OSS: Receiving that process with PID 20321 terminated after running for 195652 nanoseconds
+OSS: Dispatching of ready queue took 0:43 at 92:878636
+OSS: Process 20328 exited with times : waiting=0:0, blocked=0:122409, exec=0:122409
+OSS: Generating process with PID 20330 at time 92:878636
+OSS: Process 20330 queued into RQ 0
+OSS: Process 20321 exited with times : waiting=12:941416, blocked=0:195652, exec=0:195652
+OSS: Pop PID 20330 from ready queue 0 at time 92:878636,
+OSS: Receiving that process with PID 20330 terminated after running for 122409 nanoseconds
+OSS: Dispatching of ready queue took 0:685 at 93:1730
+OSS: Generating process with PID 20331 at time 93:1730
+OSS: Process 20331 queued into RQ 1
+OSS: Process 20330 exited with times : waiting=0:0, blocked=0:122409, exec=0:122409
+OSS: Pop PID 20322 from ready queue 0 at time 93:1730,
+OSS: Receiving that process with PID 20322 terminated after running for 425228 nanoseconds
+OSS: Dispatching of ready queue took 0:46 at 93:427004
+OSS: Process with PID 20317 event(93:418863) ready at time 93:427004
+OSS: Dispatching process with PID 20317 from blocked queue at time 93:427004,
+OSS: Advance with burst of 0:303504 at time 93:427004
+OSS: Putting process with PID 20317 into blocked queue until 94:427997
+OSS: Dispatching of blocked queue took 0:108 at time 93:730616
+OSS: Process 20322 exited with times : waiting=12:537357, blocked=0:425228, exec=0:425228
+OSS: Generating process with PID 20332 at time 93:730616
+OSS: Process 20332 queued into RQ 1
+OSS: Pop PID 20312 from ready queue 0 at time 93:730616,
+OSS: Receiving that process with PID 20312 terminated after running for 84705 nanoseconds
+OSS: Dispatching of ready queue took 0:104 at 93:815425
+OSS: Process with PID 20282 event(93:222796) ready at time 93:815425
+OSS: Dispatching process with PID 20282 from blocked queue at time 93:815425,
+OSS: Advance with burst of 0:218685 at time 93:815425
+OSS: Putting process with PID 20282 into blocked queue until 98:815651
+OSS: Dispatching of blocked queue took 0:143 at time 94:34253
+OSS: Process 20312 exited with times : waiting=32:902341, blocked=0:84705, exec=0:584705
+OSS: Generating process with PID 20333 at time 94:34253
+OSS: Process 20333 queued into RQ 1
+OSS: Pop PID 20323 from ready queue 0 at time 94:34253,
+OSS: Advance with burst of 0:91623 at time 94:34253
+OSS: Putting process with PID 20323 into blocked queue until 99:35103
+OSS: Dispatching of ready queue took 0:41 at 94:125917
+OSS: Process with PID 20309 event(93:476716) ready at time 94:125917
+OSS: Dispatching process with PID 20309 from blocked queue at time 94:125917,
+OSS: Receiving that process with PID 20309 terminated after running for 14639 nanoseconds
+OSS: Dispatching of blocked queue took 0:127 at time 94:140683
+OSS: Generating process with PID 20334 at time 94:140683
+OSS: Process 20334 queued into RQ 0
+OSS: Process 20309 exited with times : waiting=32:418387, blocked=0:14639, exec=0:793928
+OSS: Pop PID 20334 from ready queue 0 at time 94:140683,
+OSS: Receiving that process with PID 20334 terminated after running for 425228 nanoseconds
+OSS: Dispatching of ready queue took 0:864 at 94:566775
+OSS: Process with PID 20317 event(94:427997) ready at time 94:566775
+OSS: Dispatching process with PID 20317 from blocked queue at time 94:566775,
+OSS: Receiving that process with PID 20317 ran for 500000 nanoseconds
+OSS: Process 20317 queued into RQ 1
+OSS: Receiving that process with PID 20317 terminated after running for 500000 nanoseconds
+OSS: Dispatching of blocked queue took 0:31 at time 95:566806
+OSS: Generating process with PID 20335 at time 95:566806
+OSS: Process 20335 queued into RQ 1
+OSS: Process 20334 exited with times : waiting=0:0, blocked=0:425228, exec=0:425228
+OSS: Pop PID 20316 from ready queue 0 at time 95:566806,
+OSS: Receiving that process with PID 20316 ran for 500000 nanoseconds
+OSS: Process 20316 queued into RQ 1
+OSS: Receiving that process with PID 20316 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:41 at 96:566847
+OSS: Generating process with PID 20336 at time 96:566847
+OSS: Process 20336 queued into RQ 1
+OSS: Pop PID 20324 from ready queue 0 at time 96:566847,
+OSS: Advance with burst of 0:350977 at time 96:566847
+OSS: Putting process with PID 20324 into blocked queue until 96:567168
+OSS: Dispatching of ready queue took 0:44 at 96:917868
+OSS: Process with PID 20324 event(96:567168) ready at time 96:917868
+OSS: Dispatching process with PID 20324 from blocked queue at time 96:917868,
+OSS: Advance with burst of 0:349755 at time 96:917868
+OSS: Putting process with PID 20324 into blocked queue until 96:917957
+OSS: Dispatching of blocked queue took 0:29 at time 97:267652
+OSS: Pop PID 20319 from ready queue 0 at time 97:267652,
+OSS: Advance with burst of 0:372464 at time 97:267652
+OSS: Putting process with PID 20319 into blocked queue until 101:268149
+OSS: Dispatching of ready queue took 0:34 at 97:640150
+OSS: Process with PID 20324 event(96:917957) ready at time 97:640150
+OSS: Dispatching process with PID 20324 from blocked queue at time 97:640150,
+OSS: Advance with burst of 0:100931 at time 97:640150
+OSS: Putting process with PID 20324 into blocked queue until 102:640528
+OSS: Dispatching of blocked queue took 0:30 at time 97:741111
+OSS: Pop PID 20270 from ready queue 0 at time 97:741111,
+OSS: Receiving that process with PID 20270 terminated after running for 178618 nanoseconds
+OSS: Dispatching of ready queue took 0:26 at 97:919755
+OSS: Pop PID 20271 from ready queue 0 at time 97:919755,
+OSS: Advance with burst of 0:85644 at time 97:919755
+OSS: Putting process with PID 20271 into blocked queue until 100:920707
+OSS: Dispatching of ready queue took 0:109 at 98:5508
+OSS: Pop PID 20314 from ready queue 0 at time 98:5508,
+OSS: Advance with burst of 0:98281 at time 98:5508
+OSS: Putting process with PID 20314 into blocked queue until 98:5520
+OSS: Dispatching of ready queue took 0:31 at 98:103820
+OSS: Process with PID 20314 event(98:5520) ready at time 98:103820
+OSS: Dispatching process with PID 20314 from blocked queue at time 98:103820,
+OSS: Advance with burst of 0:233316 at time 98:103820
+OSS: Putting process with PID 20314 into blocked queue until 101:104555
+OSS: Dispatching of blocked queue took 0:25 at time 98:337161
+OSS: Process 20270 exited with times : waiting=68:719269, blocked=0:178618, exec=2:974500
+OSS: Generating process with PID 20337 at time 98:337161
+OSS: Process 20337 queued into RQ 0
+OSS: Pop PID 20337 from ready queue 0 at time 98:337161,
+OSS: Receiving that process with PID 20337 ran for 500000 nanoseconds
+OSS: Process 20337 queued into RQ 0
+OSS: Receiving that process with PID 20337 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:802 at 99:337963
+OSS: Process with PID 20282 event(98:815651) ready at time 99:337963
+OSS: Dispatching process with PID 20282 from blocked queue at time 99:337963,
+OSS: Advance with burst of 0:114794 at time 99:337963
+OSS: Putting process with PID 20282 into blocked queue until 100:338812
+OSS: Dispatching of blocked queue took 0:35 at time 99:452792
+OSS: Pop PID 20337 from ready queue 0 at time 99:452792,
+OSS: Receiving that process with PID 20337 ran for 500000 nanoseconds
+OSS: Process 20337 queued into RQ 0
+OSS: Receiving that process with PID 20337 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:21 at 100:452813
+OSS: Process with PID 20323 event(99:35103) ready at time 100:452813
+OSS: Dispatching process with PID 20323 from blocked queue at time 100:452813,
+OSS: Receiving that process with PID 20323 terminated after running for 297424 nanoseconds
+OSS: Dispatching of blocked queue took 0:20 at time 100:750257
+OSS: Pop PID 20337 from ready queue 0 at time 100:750257,
+OSS: Receiving that process with PID 20337 terminated after running for 449520 nanoseconds
+OSS: Dispatching of ready queue took 0:28 at 101:199805
+OSS: Process with PID 20271 event(100:920707) ready at time 101:199805
+OSS: Dispatching process with PID 20271 from blocked queue at time 101:199805,
+OSS: Receiving that process with PID 20271 ran for 500000 nanoseconds
+OSS: Process 20271 queued into RQ 1
+OSS: Receiving that process with PID 20271 terminated after running for 500000 nanoseconds
+OSS: Dispatching of blocked queue took 0:90 at time 102:199895
+OSS: Process 20323 exited with times : waiting=12:569839, blocked=0:297424, exec=0:389047
+OSS: Generating process with PID 20338 at time 102:199895
+OSS: Process 20338 queued into RQ 1
+OSS: Process 20337 exited with times : waiting=1:413096, blocked=0:449520, exec=1:449520
+OSS: Pop PID 20276 from ready queue 0 at time 102:199895,
+OSS: Advance with burst of 0:297830 at time 102:199895
+OSS: Putting process with PID 20276 into blocked queue until 107:200218
+OSS: Dispatching of ready queue took 0:37 at 102:497762
+OSS: Process with PID 20319 event(101:268149) ready at time 102:497762
+OSS: Dispatching process with PID 20319 from blocked queue at time 102:497762,
+OSS: Advance with burst of 0:87706 at time 102:497762
+OSS: Putting process with PID 20319 into blocked queue until 106:498611
+OSS: Dispatching of blocked queue took 0:42 at time 102:585510
+OSS: Generating process with PID 20339 at time 102:585510
+OSS: Process 20339 queued into RQ 1
+OSS: Pop PID 20326 from ready queue 0 at time 102:585510,
+OSS: Receiving that process with PID 20326 ran for 500000 nanoseconds
+OSS: Process 20326 queued into RQ 1
+OSS: Receiving that process with PID 20326 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:42 at 103:585552
+OSS: Process with PID 20324 event(102:640528) ready at time 103:585552
+OSS: Dispatching process with PID 20324 from blocked queue at time 103:585552,
+OSS: Advance with burst of 0:433523 at time 103:585552
+OSS: Putting process with PID 20324 into blocked queue until 107:585824
+OSS: Dispatching of blocked queue took 0:98 at time 104:19173
+OSS: Pop PID 20327 from ready queue 0 at time 104:19173,
+OSS: Receiving that process with PID 20327 ran for 500000 nanoseconds
+OSS: Process 20327 queued into RQ 1
+OSS: Receiving that process with PID 20327 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:34 at 105:19207
+OSS: Process with PID 20314 event(101:104555) ready at time 105:19207
+OSS: Dispatching process with PID 20314 from blocked queue at time 105:19207,
+OSS: Advance with burst of 0:178369 at time 105:19207
+OSS: Putting process with PID 20314 into blocked queue until 107:19227
+OSS: Dispatching of blocked queue took 0:26 at time 105:197602
+OSS: Pop PID 20329 from ready queue 0 at time 105:197602,
+OSS: Advance with burst of 0:62911 at time 105:197602
+OSS: Putting process with PID 20329 into blocked queue until 109:197627
+OSS: Dispatching of ready queue took 0:28 at 105:260541
+OSS: Process with PID 20282 event(100:338812) ready at time 105:260541
+OSS: Dispatching process with PID 20282 from blocked queue at time 105:260541,
+OSS: Advance with burst of 0:267121 at time 105:260541
+OSS: Putting process with PID 20282 into blocked queue until 106:261290
+OSS: Dispatching of blocked queue took 0:34 at time 105:527696
+OSS: Pop PID 20331 from ready queue 0 at time 105:527696,
+OSS: Receiving that process with PID 20331 terminated after running for 195652 nanoseconds
+OSS: Dispatching of ready queue took 0:34 at 105:723382
+OSS: Pop PID 20332 from ready queue 0 at time 105:723382,
+OSS: Receiving that process with PID 20332 terminated after running for 122409 nanoseconds
+OSS: Dispatching of ready queue took 0:176 at 105:845967
+OSS: Process 20331 exited with times : waiting=12:525966, blocked=0:195652, exec=0:195652
+OSS: Process 20332 exited with times : waiting=11:992766, blocked=0:122409, exec=0:122409
+OSS: Generating process with PID 20340 at time 105:845967
+OSS: Process 20340 queued into RQ 1
+OSS: Pop PID 20333 from ready queue 0 at time 105:845967,
+OSS: Receiving that process with PID 20333 ran for 500000 nanoseconds
+OSS: Process 20333 queued into RQ 1
+OSS: Receiving that process with PID 20333 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:37 at 106:846004
+OSS: Process with PID 20319 event(106:498611) ready at time 106:846004
+OSS: Dispatching process with PID 20319 from blocked queue at time 106:846004,
+OSS: Receiving that process with PID 20319 terminated after running for 152488 nanoseconds
+OSS: Dispatching of blocked queue took 0:22 at time 106:998514
+OSS: Generating process with PID 20341 at time 106:998514
+OSS: Process 20341 queued into RQ 0
+OSS: Process 20319 exited with times : waiting=24:270309, blocked=0:152488, exec=1:112658
+OSS: Pop PID 20341 from ready queue 0 at time 106:998514,
+OSS: Receiving that process with PID 20341 terminated after running for 195652 nanoseconds
+OSS: Dispatching of ready queue took 0:1564 at 107:195730
+OSS: Process with PID 20314 event(107:19227) ready at time 107:195730
+OSS: Dispatching process with PID 20314 from blocked queue at time 107:195730,
+OSS: Receiving that process with PID 20314 terminated after running for 94953 nanoseconds
+OSS: Dispatching of blocked queue took 0:32 at time 107:290715
+OSS: Generating process with PID 20342 at time 107:290715
+OSS: Process 20342 queued into RQ 1
+OSS: Process 20314 exited with times : waiting=29:693671, blocked=0:94953, exec=1:316439
+OSS: Process 20341 exited with times : waiting=0:0, blocked=0:195652, exec=0:195652
+OSS: Pop PID 20317 from ready queue 0 at time 107:290715,
+OSS: Receiving that process with PID 20317 terminated after running for 215920 nanoseconds
+OSS: Dispatching of ready queue took 0:28 at 107:506663
+OSS: Process with PID 20276 event(107:200218) ready at time 107:506663
+OSS: Dispatching process with PID 20276 from blocked queue at time 107:506663,
+OSS: Advance with burst of 0:245333 at time 107:506663
+OSS: Putting process with PID 20276 into blocked queue until 109:507323
+OSS: Dispatching of blocked queue took 0:100 at time 107:752096
+OSS: Process 20317 exited with times : waiting=23:642578, blocked=0:215920, exec=1:532626
+OSS: Generating process with PID 20343 at time 107:752096
+OSS: Process 20343 queued into RQ 1
+OSS: Pop PID 20335 from ready queue 0 at time 107:752096,
+OSS: Receiving that process with PID 20335 ran for 500000 nanoseconds
+OSS: Process 20335 queued into RQ 1
+OSS: Receiving that process with PID 20335 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:37 at 108:752133
+OSS: Process with PID 20324 event(107:585824) ready at time 108:752133
+OSS: Dispatching process with PID 20324 from blocked queue at time 108:752133,
+OSS: Receiving that process with PID 20324 ran for 500000 nanoseconds
+OSS: Process 20324 queued into RQ 1
+OSS: Receiving that process with PID 20324 terminated after running for 500000 nanoseconds
+OSS: Dispatching of blocked queue took 0:28 at time 109:752161
+OSS: Generating process with PID 20344 at time 109:752161
+OSS: Process 20344 queued into RQ 1
+OSS: Pop PID 20316 from ready queue 0 at time 109:752161,
+OSS: Advance with burst of 0:351614 at time 109:752161
+OSS: Putting process with PID 20316 into blocked queue until 112:752805
+OSS: Dispatching of ready queue took 0:40 at 110:103815
+OSS: Process with PID 20329 event(109:197627) ready at time 110:103815
+OSS: Dispatching process with PID 20329 from blocked queue at time 110:103815,
+OSS: Advance with burst of 0:12191 at time 110:103815
+OSS: Putting process with PID 20329 into blocked queue until 110:103891
+OSS: Dispatching of blocked queue took 0:30 at time 110:116036
+OSS: Generating process with PID 20345 at time 110:116036
+OSS: Process 20345 queued into RQ 0
+OSS: Pop PID 20345 from ready queue 0 at time 110:116036,
+OSS: Advance with burst of 0:211520 at time 110:116036
+OSS: Putting process with PID 20345 into blocked queue until 115:116287
+OSS: Dispatching of ready queue took 0:840 at 110:328396
+OSS: Process with PID 20282 event(106:261290) ready at time 110:328396
+OSS: Dispatching process with PID 20282 from blocked queue at time 110:328396,
+OSS: Advance with burst of 0:207030 at time 110:328396
+OSS: Putting process with PID 20282 into blocked queue until 111:328838
+OSS: Dispatching of blocked queue took 0:50 at time 110:535476
+OSS: Pop PID 20336 from ready queue 0 at time 110:535476,
+OSS: Receiving that process with PID 20336 terminated after running for 425228 nanoseconds
+OSS: Dispatching of ready queue took 0:36 at 110:960740
+OSS: Process with PID 20276 event(109:507323) ready at time 110:960740
+OSS: Dispatching process with PID 20276 from blocked queue at time 110:960740,
+OSS: Receiving that process with PID 20276 ran for 500000 nanoseconds
+OSS: Process 20276 queued into RQ 1
+OSS: Receiving that process with PID 20276 terminated after running for 500000 nanoseconds
+OSS: Dispatching of blocked queue took 0:34 at time 111:960774
+OSS: Pop PID 20271 from ready queue 0 at time 111:960774,
+OSS: Advance with burst of 0:121022 at time 111:960774
+OSS: Putting process with PID 20271 into blocked queue until 112:960935
+OSS: Dispatching of ready queue took 0:27 at 112:81823
+OSS: Process with PID 20329 event(110:103891) ready at time 112:81823
+OSS: Dispatching process with PID 20329 from blocked queue at time 112:81823,
+OSS: Receiving that process with PID 20329 terminated after running for 220913 nanoseconds
+OSS: Dispatching of blocked queue took 0:28 at time 112:302764
+OSS: Pop PID 20338 from ready queue 0 at time 112:302764,
+OSS: Advance with burst of 0:91623 at time 112:302764
+OSS: Putting process with PID 20338 into blocked queue until 117:303614
+OSS: Dispatching of ready queue took 0:34 at 112:394421
+OSS: Process with PID 20282 event(111:328838) ready at time 112:394421
+OSS: Dispatching process with PID 20282 from blocked queue at time 112:394421,
+OSS: Advance with burst of 0:271067 at time 112:394421
+OSS: Putting process with PID 20282 into blocked queue until 115:395418
+OSS: Dispatching of blocked queue took 0:24 at time 112:665512
+OSS: Process 20336 exited with times : waiting=13:968629, blocked=0:425228, exec=0:425228
+OSS: Generating process with PID 20346 at time 112:665512
+OSS: Process 20346 queued into RQ 1
+OSS: Process 20329 exited with times : waiting=12:514661, blocked=0:220913, exec=0:296015
+OSS: Pop PID 20339 from ready queue 0 at time 112:665512,
+OSS: Advance with burst of 0:98864 at time 112:665512
+OSS: Putting process with PID 20339 into blocked queue until 117:666193
+OSS: Dispatching of ready queue took 0:41 at 112:764417
+OSS: Process with PID 20316 event(112:752805) ready at time 112:764417
+OSS: Dispatching process with PID 20316 from blocked queue at time 112:764417,
+OSS: Receiving that process with PID 20316 terminated after running for 67730 nanoseconds
+OSS: Dispatching of blocked queue took 0:28 at time 112:832175
+OSS: Generating process with PID 20347 at time 112:832175
+OSS: Process 20347 queued into RQ 0
+OSS: Process 20316 exited with times : waiting=43:33816, blocked=0:67730, exec=1:419344
+OSS: Pop PID 20347 from ready queue 0 at time 112:832175,
+OSS: Receiving that process with PID 20347 ran for 500000 nanoseconds
+OSS: Process 20347 queued into RQ 0
+OSS: Receiving that process with PID 20347 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:685 at 113:832860
+OSS: Process with PID 20271 event(112:960935) ready at time 113:832860
+OSS: Dispatching process with PID 20271 from blocked queue at time 113:832860,
+OSS: Advance with burst of 0:69439 at time 113:832860
+OSS: Putting process with PID 20271 into blocked queue until 117:833617
+OSS: Dispatching of blocked queue took 0:34 at time 113:902333
+OSS: Generating process with PID 20348 at time 113:902333
+OSS: Process 20348 queued into RQ 1
+OSS: Pop PID 20347 from ready queue 0 at time 113:902333,
+OSS: Receiving that process with PID 20347 terminated after running for 53482 nanoseconds
+OSS: Dispatching of ready queue took 0:31 at 113:955846
+OSS: Pop PID 20326 from ready queue 0 at time 113:955846,
+OSS: Receiving that process with PID 20326 ran for 500000 nanoseconds
+OSS: Process 20326 queued into RQ 1
+OSS: Receiving that process with PID 20326 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:31 at 114:955877
+OSS: Pop PID 20327 from ready queue 0 at time 114:955877,
+OSS: Receiving that process with PID 20327 ran for 500000 nanoseconds
+OSS: Process 20327 queued into RQ 1
+OSS: Receiving that process with PID 20327 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:28 at 115:955905
+OSS: Process with PID 20345 event(115:116287) ready at time 115:955905
+OSS: Dispatching process with PID 20345 from blocked queue at time 115:955905,
+OSS: Receiving that process with PID 20345 ran for 500000 nanoseconds
+OSS: Process 20345 queued into RQ 0
+OSS: Receiving that process with PID 20345 terminated after running for 500000 nanoseconds
+OSS: Dispatching of blocked queue took 0:84 at time 116:955989
+OSS: Process 20347 exited with times : waiting=0:570158, blocked=0:53482, exec=0:553482
+OSS: Generating process with PID 20349 at time 116:955989
+OSS: Process 20349 queued into RQ 1
+OSS: Pop PID 20345 from ready queue 0 at time 116:955989,
+OSS: Advance with burst of 0:98281 at time 116:955989
+OSS: Putting process with PID 20345 into blocked queue until 116:956001
+OSS: Dispatching of ready queue took 0:32 at 117:54302
+OSS: Process with PID 20282 event(115:395418) ready at time 117:54302
+OSS: Dispatching process with PID 20282 from blocked queue at time 117:54302,
+OSS: Receiving that process with PID 20282 terminated after running for 216589 nanoseconds
+OSS: Dispatching of blocked queue took 0:175 at time 117:271066
+OSS: Process 20282 exited with times : waiting=54:750649, blocked=0:216589, exec=3:545297
+OSS: Generating process with PID 20350 at time 117:271066
+OSS: Process 20350 queued into RQ 1
+OSS: Pop PID 20340 from ready queue 0 at time 117:271066,
+OSS: Receiving that process with PID 20340 terminated after running for 122409 nanoseconds
+OSS: Dispatching of ready queue took 0:46 at 117:393521
+OSS: Process with PID 20338 event(117:303614) ready at time 117:393521
+OSS: Dispatching process with PID 20338 from blocked queue at time 117:393521,
+OSS: Receiving that process with PID 20338 terminated after running for 297424 nanoseconds
+OSS: Dispatching of blocked queue took 0:33 at time 117:690978
+OSS: Pop PID 20333 from ready queue 0 at time 117:690978,
+OSS: Receiving that process with PID 20333 terminated after running for 84705 nanoseconds
+OSS: Dispatching of ready queue took 0:153 at 117:775836
+OSS: Process with PID 20339 event(117:666193) ready at time 117:775836
+OSS: Dispatching process with PID 20339 from blocked queue at time 117:775836,
+OSS: Receiving that process with PID 20339 ran for 500000 nanoseconds
+OSS: Process 20339 queued into RQ 1
+OSS: Receiving that process with PID 20339 terminated after running for 500000 nanoseconds
+OSS: Dispatching of blocked queue took 0:35 at time 118:775871
+OSS: Process 20333 exited with times : waiting=23:156725, blocked=0:84705, exec=0:584705
+OSS: Process 20338 exited with times : waiting=10:102869, blocked=0:297424, exec=0:389047
+OSS: Process 20340 exited with times : waiting=11:425099, blocked=0:122409, exec=0:122409
+OSS: Generating process with PID 20351 at time 118:775871
+OSS: Process 20351 queued into RQ 1
+OSS: Pop PID 20342 from ready queue 0 at time 118:775871,
+OSS: Receiving that process with PID 20342 ran for 500000 nanoseconds
+OSS: Process 20342 queued into RQ 1
+OSS: Receiving that process with PID 20342 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:38 at 119:775909
+OSS: Process with PID 20271 event(117:833617) ready at time 119:775909
+OSS: Dispatching process with PID 20271 from blocked queue at time 119:775909,
+OSS: Advance with burst of 0:454386 at time 119:775909
+OSS: Putting process with PID 20271 into blocked queue until 124:776517
+OSS: Dispatching of blocked queue took 0:32 at time 120:230327
+OSS: Generating process with PID 20352 at time 120:230327
+OSS: Process 20352 queued into RQ 1
+OSS: Pop PID 20343 from ready queue 0 at time 120:230327,
+OSS: Advance with burst of 0:88321 at time 120:230327
+OSS: Putting process with PID 20343 into blocked queue until 122:230764
+OSS: Dispatching of ready queue took 0:44 at 120:318692
+OSS: Process with PID 20345 event(116:956001) ready at time 120:318692
+OSS: Dispatching process with PID 20345 from blocked queue at time 120:318692,
+OSS: Receiving that process with PID 20345 ran for 500000 nanoseconds
+OSS: Process 20345 queued into RQ 0
+OSS: Receiving that process with PID 20345 terminated after running for 500000 nanoseconds
+OSS: Dispatching of blocked queue took 0:44 at time 121:318736
+OSS: Generating process with PID 20353 at time 121:318736
+OSS: Process 20353 queued into RQ 0
+OSS: Pop PID 20345 from ready queue 0 at time 121:318736,
+OSS: Receiving that process with PID 20345 ran for 500000 nanoseconds
+OSS: Process 20345 queued into RQ 0
+OSS: Receiving that process with PID 20345 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:28 at 122:318764
+OSS: Process with PID 20343 event(122:230764) ready at time 122:318764
+OSS: Dispatching process with PID 20343 from blocked queue at time 122:318764,
+OSS: Advance with burst of 0:37562 at time 122:318764
+OSS: Putting process with PID 20343 into blocked queue until 124:319182
+OSS: Dispatching of blocked queue took 0:35 at time 122:356361
+OSS: Pop PID 20353 from ready queue 0 at time 122:356361,
+OSS: Advance with burst of 0:91623 at time 122:356361
+OSS: Putting process with PID 20353 into blocked queue until 127:357211
+OSS: Dispatching of ready queue took 0:692 at 122:448676
+OSS: Pop PID 20345 from ready queue 0 at time 122:448676,
+OSS: Receiving that process with PID 20345 ran for 500000 nanoseconds
+OSS: Process 20345 queued into RQ 0
+OSS: Receiving that process with PID 20345 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:37 at 123:448713
+OSS: Pop PID 20345 from ready queue 0 at time 123:448713,
+OSS: Receiving that process with PID 20345 ran for 500000 nanoseconds
+OSS: Process 20345 queued into RQ 0
+OSS: Receiving that process with PID 20345 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:75 at 124:448788
+OSS: Process with PID 20343 event(124:319182) ready at time 124:448788
+OSS: Dispatching process with PID 20343 from blocked queue at time 124:448788,
+OSS: Advance with burst of 0:387319 at time 124:448788
+OSS: Putting process with PID 20343 into blocked queue until 126:449624
+OSS: Dispatching of blocked queue took 0:38 at time 124:836145
+OSS: Pop PID 20345 from ready queue 0 at time 124:836145,
+OSS: Receiving that process with PID 20345 ran for 500000 nanoseconds
+OSS: Process 20345 queued into RQ 0
+OSS: Receiving that process with PID 20345 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:27 at 125:836172
+OSS: Process with PID 20271 event(124:776517) ready at time 125:836172
+OSS: Dispatching process with PID 20271 from blocked queue at time 125:836172,
+OSS: Receiving that process with PID 20271 ran for 500000 nanoseconds
+OSS: Process 20271 queued into RQ 1
+OSS: Receiving that process with PID 20271 terminated after running for 500000 nanoseconds
+OSS: Dispatching of blocked queue took 0:30 at time 126:836202
+OSS: Pop PID 20345 from ready queue 0 at time 126:836202,
+OSS: Receiving that process with PID 20345 terminated after running for 94953 nanoseconds
+OSS: Dispatching of ready queue took 0:23 at 126:931178
+OSS: Process with PID 20343 event(126:449624) ready at time 126:931178
+OSS: Dispatching process with PID 20343 from blocked queue at time 126:931178,
+OSS: Advance with burst of 0:303504 at time 126:931178
+OSS: Putting process with PID 20343 into blocked queue until 127:932171
+OSS: Dispatching of blocked queue took 0:27 at time 127:234709
+OSS: Pop PID 20335 from ready queue 0 at time 127:234709,
+OSS: Advance with burst of 0:196182 at time 127:234709
+OSS: Putting process with PID 20335 into blocked queue until 127:235044
+OSS: Dispatching of ready queue took 0:28 at 127:430919
+OSS: Process with PID 20353 event(127:357211) ready at time 127:430919
+OSS: Dispatching process with PID 20353 from blocked queue at time 127:430919,
+OSS: Receiving that process with PID 20353 terminated after running for 297424 nanoseconds
+OSS: Dispatching of blocked queue took 0:23 at time 127:728366
+OSS: Pop PID 20324 from ready queue 0 at time 127:728366,
+OSS: Receiving that process with PID 20324 ran for 500000 nanoseconds
+OSS: Process 20324 queued into RQ 1
+OSS: Receiving that process with PID 20324 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:30 at 128:728396
+OSS: Process with PID 20343 event(127:932171) ready at time 128:728396
+OSS: Dispatching process with PID 20343 from blocked queue at time 128:728396,
+OSS: Receiving that process with PID 20343 ran for 500000 nanoseconds
+OSS: Process 20343 queued into RQ 1
+OSS: Receiving that process with PID 20343 terminated after running for 500000 nanoseconds
+OSS: Dispatching of blocked queue took 0:30 at time 129:728426
+OSS: Process 20345 exited with times : waiting=4:517594, blocked=0:94953, exec=3:404754
+OSS: Process 20353 exited with times : waiting=1:37625, blocked=0:297424, exec=0:389047
+OSS: Pop PID 20344 from ready queue 0 at time 129:728426,
+OSS: Receiving that process with PID 20344 terminated after running for 195652 nanoseconds
+OSS: Dispatching of ready queue took 0:29 at 129:924107
+OSS: Process with PID 20335 event(127:235044) ready at time 129:924107
+OSS: Dispatching process with PID 20335 from blocked queue at time 129:924107,
+OSS: Advance with burst of 0:83107 at time 129:924107
+OSS: Putting process with PID 20335 into blocked queue until 130:924326
+OSS: Dispatching of blocked queue took 0:28 at time 130:7242
+OSS: Pop PID 20276 from ready queue 0 at time 130:7242,
+OSS: Receiving that process with PID 20276 ran for 500000 nanoseconds
+OSS: Process 20276 queued into RQ 1
+OSS: Receiving that process with PID 20276 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:28 at 131:7270
+OSS: Process with PID 20335 event(130:924326) ready at time 131:7270
+OSS: Dispatching process with PID 20335 from blocked queue at time 131:7270,
+OSS: Receiving that process with PID 20335 terminated after running for 14639 nanoseconds
+OSS: Dispatching of blocked queue took 0:26 at time 131:21935
+OSS: Process 20344 exited with times : waiting=19:976265, blocked=0:195652, exec=0:195652
+OSS: Pop PID 20346 from ready queue 0 at time 131:21935,
+OSS: Receiving that process with PID 20346 terminated after running for 425228 nanoseconds
+OSS: Dispatching of ready queue took 0:32 at 131:447195
+OSS: Pop PID 20348 from ready queue 0 at time 131:447195,
+OSS: Receiving that process with PID 20348 ran for 500000 nanoseconds
+OSS: Process 20348 queued into RQ 1
+OSS: Receiving that process with PID 20348 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:124 at 132:447319
+OSS: Process 20335 exited with times : waiting=31:167903, blocked=0:14639, exec=0:793928
+OSS: Process 20346 exited with times : waiting=18:356423, blocked=0:425228, exec=0:425228
+OSS: Pop PID 20326 from ready queue 0 at time 132:447319,
+OSS: Advance with burst of 0:406916 at time 132:447319
+OSS: Putting process with PID 20326 into blocked queue until 135:447796
+OSS: Dispatching of ready queue took 0:28 at 132:854263
+OSS: Pop PID 20327 from ready queue 0 at time 132:854263,
+OSS: Receiving that process with PID 20327 terminated after running for 221352 nanoseconds
+OSS: Dispatching of ready queue took 0:21 at 133:75636
+OSS: Pop PID 20349 from ready queue 0 at time 133:75636,
+OSS: Advance with burst of 0:62911 at time 133:75636
+OSS: Putting process with PID 20349 into blocked queue until 137:75661
+OSS: Dispatching of ready queue took 0:32 at 133:138579
+OSS: Pop PID 20350 from ready queue 0 at time 133:138579,
+OSS: Advance with burst of 0:120903 at time 133:138579
+OSS: Putting process with PID 20350 into blocked queue until 133:139560
+OSS: Dispatching of ready queue took 0:28 at 133:259510
+OSS: Process with PID 20350 event(133:139560) ready at time 133:259510
+OSS: Dispatching process with PID 20350 from blocked queue at time 133:259510,
+OSS: Receiving that process with PID 20350 ran for 500000 nanoseconds
+OSS: Process 20350 queued into RQ 1
+OSS: Receiving that process with PID 20350 terminated after running for 500000 nanoseconds
+OSS: Dispatching of blocked queue took 0:23 at time 134:259533
+OSS: Pop PID 20339 from ready queue 0 at time 134:259533,
+OSS: Advance with burst of 0:376752 at time 134:259533
+OSS: Putting process with PID 20339 into blocked queue until 138:260067
+OSS: Dispatching of ready queue took 0:25 at 134:636310
+OSS: Process 20327 exited with times : waiting=39:631725, blocked=0:221352, exec=1:221352
+OSS: Pop PID 20351 from ready queue 0 at time 134:636310,
+OSS: Receiving that process with PID 20351 ran for 500000 nanoseconds
+OSS: Process 20351 queued into RQ 1
+OSS: Receiving that process with PID 20351 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:26 at 135:636336
+OSS: Process with PID 20326 event(135:447796) ready at time 135:636336
+OSS: Dispatching process with PID 20326 from blocked queue at time 135:636336,
+OSS: Receiving that process with PID 20326 terminated after running for 346024 nanoseconds
+OSS: Dispatching of blocked queue took 0:19 at time 135:982379
+OSS: Pop PID 20342 from ready queue 0 at time 135:982379,
+OSS: Advance with burst of 0:372464 at time 135:982379
+OSS: Putting process with PID 20342 into blocked queue until 139:982876
+OSS: Dispatching of ready queue took 0:29 at 136:354872
+OSS: Pop PID 20352 from ready queue 0 at time 136:354872,
+OSS: Receiving that process with PID 20352 terminated after running for 122409 nanoseconds
+OSS: Dispatching of ready queue took 0:24 at 136:477305
+OSS: Pop PID 20271 from ready queue 0 at time 136:477305,
+OSS: Receiving that process with PID 20271 terminated after running for 34323 nanoseconds
+OSS: Dispatching of ready queue took 0:92 at 136:511720
+OSS: Process 20326 exited with times : waiting=39:641942, blocked=0:346024, exec=1:752940
+OSS: Process 20352 exited with times : waiting=16:124545, blocked=0:122409, exec=0:122409
+OSS: Pop PID 20324 from ready queue 0 at time 136:511720,
+OSS: Receiving that process with PID 20324 terminated after running for 60952 nanoseconds
+OSS: Dispatching of ready queue took 0:28 at 136:572700
+OSS: Pop PID 20343 from ready queue 0 at time 136:572700,
+OSS: Receiving that process with PID 20343 terminated after running for 215920 nanoseconds
+OSS: Dispatching of ready queue took 0:155 at 136:788775
+OSS: Process 20271 exited with times : waiting=89:224168, blocked=0:34323, exec=4:679090
+OSS: Process 20324 exited with times : waiting=40:285826, blocked=0:60952, exec=2:296138
+OSS: Process 20343 exited with times : waiting=19:822535, blocked=0:215920, exec=1:532626
+OSS: Pop PID 20276 from ready queue 0 at time 136:788775,
+OSS: Receiving that process with PID 20276 ran for 500000 nanoseconds
+OSS: Process 20276 queued into RQ 1
+OSS: Receiving that process with PID 20276 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:27 at 137:788802
+OSS: Process with PID 20349 event(137:75661) ready at time 137:788802
+OSS: Dispatching process with PID 20349 from blocked queue at time 137:788802,
+OSS: Advance with burst of 0:12191 at time 137:788802
+OSS: Putting process with PID 20349 into blocked queue until 137:788878
+OSS: Dispatching of blocked queue took 0:20 at time 137:801013
+OSS: Pop PID 20348 from ready queue 0 at time 137:801013,
+OSS: Receiving that process with PID 20348 ran for 500000 nanoseconds
+OSS: Process 20348 queued into RQ 1
+OSS: Receiving that process with PID 20348 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:19 at 138:801032
+OSS: Process with PID 20339 event(138:260067) ready at time 138:801032
+OSS: Dispatching process with PID 20339 from blocked queue at time 138:801032,
+OSS: Advance with burst of 0:320266 at time 138:801032
+OSS: Putting process with PID 20339 into blocked queue until 142:801342
+OSS: Dispatching of blocked queue took 0:18 at time 139:121316
+OSS: Pop PID 20350 from ready queue 0 at time 139:121316,
+OSS: Receiving that process with PID 20350 ran for 500000 nanoseconds
+OSS: Process 20350 queued into RQ 1
+OSS: Receiving that process with PID 20350 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:18 at 140:121334
+OSS: Process with PID 20342 event(139:982876) ready at time 140:121334
+OSS: Dispatching process with PID 20342 from blocked queue at time 140:121334,
+OSS: Advance with burst of 0:87706 at time 140:121334
+OSS: Putting process with PID 20342 into blocked queue until 144:122183
+OSS: Dispatching of blocked queue took 0:19 at time 140:209059
+OSS: Pop PID 20351 from ready queue 0 at time 140:209059,
+OSS: Receiving that process with PID 20351 terminated after running for 84705 nanoseconds
+OSS: Dispatching of ready queue took 0:21 at 140:293785
+OSS: Process with PID 20349 event(137:788878) ready at time 140:293785
+OSS: Dispatching process with PID 20349 from blocked queue at time 140:293785,
+OSS: Receiving that process with PID 20349 terminated after running for 220913 nanoseconds
+OSS: Dispatching of blocked queue took 0:23 at time 140:514721
+OSS: Pop PID 20276 from ready queue 0 at time 140:514721,
+OSS: Receiving that process with PID 20276 terminated after running for 389931 nanoseconds
+OSS: Dispatching of ready queue took 0:127 at 140:904779
+OSS: Process 20349 exited with times : waiting=16:119647, blocked=0:220913, exec=0:296015
+OSS: Process 20351 exited with times : waiting=20:933188, blocked=0:84705, exec=0:584705
+OSS: Pop PID 20348 from ready queue 0 at time 140:904779,
+OSS: Advance with burst of 0:351614 at time 140:904779
+OSS: Putting process with PID 20348 into blocked queue until 143:905423
+OSS: Dispatching of ready queue took 0:32 at 141:256425
+OSS: Pop PID 20350 from ready queue 0 at time 141:256425,
+OSS: Advance with burst of 0:323252 at time 141:256425
+OSS: Putting process with PID 20350 into blocked queue until 141:256453
+OSS: Dispatching of ready queue took 0:23 at 141:579700
+OSS: Process with PID 20350 event(141:256453) ready at time 141:579700
+OSS: Dispatching process with PID 20350 from blocked queue at time 141:579700,
+OSS: Advance with burst of 0:51932 at time 141:579700
+OSS: Putting process with PID 20350 into blocked queue until 143:580023
+OSS: Dispatching of blocked queue took 0:25 at time 141:631657
+OSS: Process 20276 exited with times : waiting=80:585289, blocked=0:389931, exec=5:245043
+OSS: Jumped to next fork time 142:444293
+OSS: idled for 0:812636 at 142:444293
+OSS: Jumped to next fork time 143:448243
+OSS: idled for 1:3950 at 143:448243
+OSS: Process with PID 20339 event(142:801342) ready at time 143:448243
+OSS: Dispatching process with PID 20339 from blocked queue at time 143:448243,
+OSS: Receiving that process with PID 20339 ran for 500000 nanoseconds
+OSS: Process 20339 queued into RQ 1
+OSS: Receiving that process with PID 20339 terminated after running for 500000 nanoseconds
+OSS: Dispatching of blocked queue took 0:24 at time 144:448267
+OSS: Pop PID 20339 from ready queue 0 at time 144:448267,
+OSS: Receiving that process with PID 20339 ran for 500000 nanoseconds
+OSS: Process 20339 queued into RQ 1
+OSS: Receiving that process with PID 20339 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:18 at 145:448285
+OSS: Process with PID 20342 event(144:122183) ready at time 145:448285
+OSS: Dispatching process with PID 20342 from blocked queue at time 145:448285,
+OSS: Receiving that process with PID 20342 terminated after running for 152488 nanoseconds
+OSS: Dispatching of blocked queue took 0:18 at time 145:600791
+OSS: Pop PID 20339 from ready queue 0 at time 145:600791,
+OSS: Receiving that process with PID 20339 ran for 500000 nanoseconds
+OSS: Process 20339 queued into RQ 1
+OSS: Receiving that process with PID 20339 terminated after running for 500000 nanoseconds
+OSS: Dispatching of ready queue took 0:25 at 146:600816
+OSS: Process with PID 20348 event(143:905423) ready at time 146:600816
+OSS: Dispatching process with PID 20348 from blocked queue at time 146:600816,
+OSS: Receiving that process with PID 20348 terminated after running for 67730 nanoseconds
+OSS: Dispatching of blocked queue took 0:189 at time 146:668735
+OSS: Process 20342 exited with times : waiting=28:191664, blocked=0:152488, exec=1:112658
+OSS: Process 20348 exited with times : waiting=26:2446, blocked=0:67730, exec=1:419344
+OSS: Pop PID 20339 from ready queue 0 at time 146:668735,
+OSS: Receiving that process with PID 20339 terminated after running for 178618 nanoseconds
+OSS: Dispatching of ready queue took 0:33 at 146:847386
+OSS: Process with PID 20350 event(143:580023) ready at time 146:847386
+OSS: Dispatching process with PID 20350 from blocked queue at time 146:847386,
+OSS: Receiving that process with PID 20350 ran for 500000 nanoseconds
+OSS: Process 20350 queued into RQ 1
+OSS: Receiving that process with PID 20350 terminated after running for 500000 nanoseconds
+OSS: Dispatching of blocked queue took 0:62 at time 147:847448
+OSS: Pop PID 20350 from ready queue 0 at time 147:847448,
+OSS: Advance with burst of 0:253924 at time 147:847448
+OSS: Putting process with PID 20350 into blocked queue until 148:847706
+OSS: Dispatching of ready queue took 0:24 at 148:101396
+OSS: Jumped to next fork time 148:494359
+OSS: idled for 0:392963 at 148:494359
+OSS: Jumped to next fork time 149:499277
+OSS: idled for 1:4918 at 149:499277
+OSS: Process with PID 20350 event(148:847706) ready at time 149:499277
+OSS: Dispatching process with PID 20350 from blocked queue at time 149:499277,
+OSS: Advance with burst of 0:218685 at time 149:499277
+OSS: Putting process with PID 20350 into blocked queue until 154:499503
+OSS: Dispatching of blocked queue took 0:24 at time 149:717986
+OSS: Process 20339 exited with times : waiting=27:784191, blocked=0:178618, exec=2:974500
+OSS: Jumped to next fork time 150:506159
+OSS: idled for 0:788173 at 150:506159
+OSS: Jumped to next fork time 150:513141
+OSS: idled for 0:6982 at 150:513141
+OSS: Jumped to next fork time 151:517171
+OSS: idled for 1:4030 at 151:517171
+OSS: Jumped to next fork time 152:518745
+OSS: idled for 1:1574 at 152:518745
+OSS: Jumped to next fork time 152:525338
+OSS: idled for 0:6593 at 152:525338
+OSS: Jumped to next fork time 152:525591
+OSS: idled for 0:253 at 152:525591
+OSS: Jumped to next fork time 153:528665
+OSS: idled for 1:3074 at 153:528665
+OSS: Jumped to next fork time 153:533378
+OSS: idled for 0:4713 at 153:533378
+OSS: Jumped to next fork time 154:541755
+OSS: idled for 1:8377 at 154:541755
+OSS: Process with PID 20350 event(154:499503) ready at time 154:541755
+OSS: Dispatching process with PID 20350 from blocked queue at time 154:541755,
+OSS: Advance with burst of 0:114794 at time 154:541755
+OSS: Putting process with PID 20350 into blocked queue until 155:542604
+OSS: Dispatching of blocked queue took 0:25 at time 154:656574
+OSS: Jumped to next fork time 155:564124
+OSS: idled for 0:907550 at 155:564124
+OSS: Process with PID 20350 event(155:542604) ready at time 155:564124
+OSS: Dispatching process with PID 20350 from blocked queue at time 155:564124,
+OSS: Advance with burst of 0:267121 at time 155:564124
+OSS: Putting process with PID 20350 into blocked queue until 156:564873
+OSS: Dispatching of blocked queue took 0:16 at time 155:831261
+OSS: Jumped to next fork time 156:568067
+OSS: idled for 0:736806 at 156:568067
+OSS: Process with PID 20350 event(156:564873) ready at time 156:568067
+OSS: Dispatching process with PID 20350 from blocked queue at time 156:568067,
+OSS: Advance with burst of 0:207030 at time 156:568067
+OSS: Putting process with PID 20350 into blocked queue until 157:568509
+OSS: Dispatching of blocked queue took 0:17 at time 156:775114
+OSS: Jumped to next fork time 157:574395
+OSS: idled for 0:799281 at 157:574395
+OSS: Process with PID 20350 event(157:568509) ready at time 157:574395
+OSS: Dispatching process with PID 20350 from blocked queue at time 157:574395,
+OSS: Advance with burst of 0:271067 at time 157:574395
+OSS: Putting process with PID 20350 into blocked queue until 160:575392
+OSS: Dispatching of blocked queue took 0:16 at time 157:845478
+OSS: Jumped to next fork time 158:583686
+OSS: idled for 0:738208 at 158:583686
+OSS: Jumped to next fork time 158:587704
+OSS: idled for 0:4018 at 158:587704
+OSS: Jumped to next fork time 159:594540
+OSS: idled for 1:6836 at 159:594540
+OSS: Jumped to next fork time 160:599595
+OSS: idled for 1:5055 at 160:599595
+OSS: Process with PID 20350 event(160:575392) ready at time 160:599595
+OSS: Dispatching process with PID 20350 from blocked queue at time 160:599595,
+OSS: Receiving that process with PID 20350 terminated after running for 216589 nanoseconds
+OSS: Dispatching of blocked queue took 0:16 at time 160:816200
+OSS: Jumped to next fork time 161:611018
+OSS: idled for 0:794818 at 161:611018
+OSS: Jumped to next fork time 162:620703
+OSS: idled for 1:9685 at 162:620703
+OSS: Jumped to next fork time 163:623776
+OSS: idled for 1:3073 at 163:623776
+OSS: Jumped to next fork time 163:630627
+OSS: idled for 0:6851 at 163:630627
+OSS: Jumped to next fork time 164:639877
+OSS: idled for 1:9250 at 164:639877
+OSS: Jumped to next fork time 164:646380
+OSS: idled for 0:6503 at 164:646380
+OSS: Jumped to next fork time 165:655386
+OSS: idled for 1:9006 at 165:655386
+OSS: Jumped to next fork time 166:660025
+OSS: idled for 1:4639 at 166:660025
+OSS: Jumped to next fork time 167:661145
+OSS: idled for 1:1120 at 167:661145
+OSS: Jumped to next fork time 168:661371
+OSS: idled for 1:226 at 168:661371
+OSS: Jumped to next fork time 169:669048
+OSS: idled for 1:7677 at 169:669048
+OSS: Jumped to next fork time 169:673029
+OSS: idled for 0:3981 at 169:673029
+OSS: Jumped to next fork time 170:680589
+OSS: idled for 1:7560 at 170:680589
+OSS: Jumped to next fork time 170:688544
+OSS: idled for 0:7955 at 170:688544
+OSS: Jumped to next fork time 170:692062
+OSS: idled for 0:3518 at 170:692062
+OSS: Jumped to next fork time 171:698404
+OSS: idled for 1:6342 at 171:698404
+OSS: Jumped to next fork time 171:703600
+OSS: idled for 0:5196 at 171:703600
+OSS: Jumped to next fork time 172:710921
+OSS: idled for 1:7321 at 172:710921
+OSS: Jumped to next fork time 172:715905
+OSS: idled for 0:4984 at 172:715905
+OSS: Jumped to next fork time 172:720332
+OSS: idled for 0:4427 at 172:720332
+OSS: Jumped to next fork time 172:722372
+OSS: idled for 0:2040 at 172:722372
+OSS: Jumped to next fork time 173:722444
+OSS: idled for 1:72 at 173:722444
+OSS: Jumped to next fork time 173:728274
+OSS: idled for 0:5830 at 173:728274
+OSS: Jumped to next fork time 174:728621
+OSS: idled for 1:347 at 174:728621
+OSS: Jumped to next fork time 174:730651
+OSS: idled for 0:2030 at 174:730651
+OSS: Jumped to next fork time 175:734365
+OSS: idled for 1:3714 at 175:734365
+OSS: Jumped to next fork time 176:741887
+OSS: idled for 1:7522 at 176:741887
+OSS: Jumped to next fork time 177:748811
+OSS: idled for 1:6924 at 177:748811
+OSS: Jumped to next fork time 177:758246
+OSS: idled for 0:9435 at 177:758246
+OSS: Jumped to next fork time 177:767450
+OSS: idled for 0:9204 at 177:767450
+OSS: Jumped to next fork time 177:767893
+OSS: idled for 0:443 at 177:767893
+OSS: Jumped to next fork time 177:773379
+OSS: idled for 0:5486 at 177:773379
+OSS: Jumped to next fork time 177:777657
+OSS: idled for 0:4278 at 177:777657
+OSS: Jumped to next fork time 178:777919
+OSS: idled for 1:262 at 178:777919
+OSS: Jumped to next fork time 178:787602
+OSS: idled for 0:9683 at 178:787602
+OSS: Jumped to next fork time 179:797450
+OSS: idled for 1:9848 at 179:797450
+OSS: Process 20350 exited with times : waiting=23:364490, blocked=0:216589, exec=3:545297
+OSS: master terminated at 179:797450.
+Average process exec time: 0:1108
+Average ready wait time: 17:7671
+Average CPU bound blocked : 0:21576
+Average IO  bound blocked : 5:4231
+CPU idled for : 33:140595
+CPU utilization: 81.56%
+OSS: Destroying simulator file /tmp/oss_simulator.1000
